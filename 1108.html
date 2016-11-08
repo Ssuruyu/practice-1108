@@ -2,15 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <script src="https://d3js.org/d3.v4.min.js"></script>
   <title>Document</title>
 </head>
 <body>
 <script type="text/javascript">
-d3.csv("./stock.csv",
+var parseTime = d3.timeParse("%d-%b-%y");
+d3.csv("./stocks.csv", 
+
 	function(data)
 	{
-		console.log(data);
-	});
-</script> 
+		data.forEach(
+			function(d)
+			{
+				d.date = parseTime(d.date);
+				d.close = +d.close;
+			}
+		);
+	}
+
+);
+
+</script>
 </body>
 </html>
