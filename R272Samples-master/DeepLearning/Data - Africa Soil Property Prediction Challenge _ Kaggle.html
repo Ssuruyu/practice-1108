@@ -1,0 +1,587 @@
+
+
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html ><!--<![endif]-->
+
+<head>
+    <link href='//fonts.googleapis.com/css?family=Merriweather:400,700|Open+Sans:300,400italic,700italic,400,700' rel='stylesheet' type='text/css'> 
+
+    
+    <link rel="stylesheet" href="/content/v/1fb55cec3f8f/shared/css/font-awesome.min.css">
+
+    
+    
+    <title>Data - Africa Soil Property Prediction Challenge  | Kaggle</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="index, follow" />
+    <link href="/content/v/4e3f994e938b/kaggle/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    
+        <meta name="keywords" content="Kaggle, data science, datasets, public data, crowdsourced analytics, competitions, tutorials, scripts, Python, R, InClass, jobs board" />
+            <meta name="description" content="Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world class machine learning challenges." />
+
+            <link rel="stylesheet" href="/content/v/1fc20364f0a7/shared/css/base.less" type="text/css" />
+        <link rel="stylesheet" href="/content/v/e1cd6968c0d2/kaggle/css/kaggle-site.less" type="text/css" />
+
+        <script type="text/javascript" src="/content/v/47b68dce8cb6/shared/js/jquery-1.7.2.min.js"></script>
+            <script type="text/javascript" src="/content/v/7846b5904b60/shared/js/jquery-ui-1.9.2.min.js"></script>
+
+    
+        <script type="text/javascript" src="/content/v/a60ecf3c5c7d/shared/js/kaggle.min.js"></script>
+        <script type="text/javascript">
+            
+            Kaggle.Current.siteId = 1;
+                Kaggle.Current.competitionId = 3966;
+                            Kaggle.Current.userId = 685599;
+        </script>
+
+    
+    <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/content/v/f1f17fea7cee/shared/js/ie/selectivizr.min.js"></script>
+    <![endif]-->
+
+    
+                                            <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+                                                                        
+                    <link rel="apple-touch-icon" href="/content/v/1e4cdaa83f46/kaggle/img/apple-touch-icon.png" />
+
+
+    
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    
+    
+
+
+    <script>
+         window.intercomSettings = {
+            app_id: "koj6gxx6",
+            name: "PecuTsai",
+            email: "pecu610@gmail.com",
+            created_at: 1471017398,
+            user_hash: "cb2ad294ee45962a8077b165a67397af1c52f0c33964979462ed6688b5cc547c",
+            "last_visit_date_at": 1471017467,  
+            "is_activated": true,
+            "is_locked_out": false,
+            "points": 0,
+             "ranking": 0,
+             "tier": 0,
+             "performance_tier": 0,
+             "highest_ranking": 0,
+             "user_name": "pecu610",
+             "display_name": "PecuTsai",
+             "is_admin": false,
+             "experiment_group": 0,
+             "newsletter_subscriber": true,
+             "block_emails": false,
+             "delete_account_reason": ""
+          };
+    </script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/koj6gxx6';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+</head>
+<body class="logged-in    kaggle">
+    <div id="watermark1" class=""></div>
+    <div id="watermark2" class=""></div>
+    
+    <div id="wrap"><!-- needed for sticky footer -->
+
+
+<div id="menu-open-overlay"></div>
+
+<div id="header2" class="">
+    <div id="header2-inside" class=>
+        <a id="logo" href="/"><img alt="Kaggle" height="86" src="/content/v/9da25a3f126b/kaggle/img/site-logo.png" width="240" /></a>
+
+            <ul id="header-ul">
+                <li>
+  <a href="/solutions/competitions">Host</a>
+</li>
+<li>
+  <a href="/competitions">Competitions</a>
+</li>
+<li>
+  <a href="/datasets">Datasets</a>
+</li>
+<li>
+  <a href="/kernels">Kernels</a>
+</li>
+<li>
+  <a href="/jobs">Jobs</a>
+</li>
+<li>
+<a href="">Community &#9662;</a>
+<ul>
+  <li><a href='/users'>User Rankings</a></li>
+  <li><a href='/forums'>Forum</a></li>
+  <li><a href="http://blog.kaggle.com" target="_blank">Blog</a></li>
+  <li><a href='/Wiki'>Wiki</a></li>
+</ul>
+</li><!-- <script>
+  $(function(){
+    if (!$('body.logged-in').length) {
+      $('a.logged-in-only').hide().parent().next().find('a').css('padding-top','10px');
+    }
+  });
+</script> -->
+            </ul>
+
+        <script>
+            jQuery(function () {
+                jQuery('#header-ul li:has(ul) > a').click(function (e) {
+                    e.preventDefault();
+
+                    jQuery('#header-ul li').not(jQuery(this).parent()).find('ul').removeClass('open');
+                    jQuery(this).parent().find('ul').toggleClass('open');
+                    jQuery('#menu-open-overlay').show();
+                });
+
+                jQuery('#menu-open-overlay').click(function () {
+                    jQuery('#header-ul ul').removeClass('open');
+                    jQuery('#top-bar-signin').hide();
+                    jQuery(this).hide();
+                });
+
+            });
+        </script>
+
+        <ul id="header-control">
+                <li id="header-account"><a class="profilelink" href="/pecu610" title="View my profile">PecuTsai</a></li>
+                <li id="header-logout"><a href="/account/logoff" class="logout-link">Logout</a></li>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+        <div class="message success"><div class="message-inside">Thank you for accepting the rules.</div></div>    <script type="text/javascript">
+        jQuery(function($) {
+            $('body').on('click', '.message .remove-button', function () {
+                $(this).parent().fadeOut(1000, function () {
+                    $(this).remove();
+                });
+                    
+                
+                $.post('/notifications/messages/' + $(this).data('messageid') + '/dismiss', function (data) {
+                    
+                });
+            });
+        });
+    </script>
+
+
+        <!-- header-inside and header -->
+            <div id="main">
+                
+
+
+
+
+
+<div id='competition' @Html.Attr('class', 'prospecting', competition.InProspectingPhase).Add(isPreview ? 'preview' : '')>                <header id="comp-header" >
+                    <a href="/c/afsis-soil-properties"><img id="comp-image" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3966/logos/front_page.png" alt="" /></a>
+                    <div id="comp-header-details">
+                        <h2>
+                                <span class="completed">Completed</span> &bull;
+
+                    $8,000 
+                        &bull; <a href="/c/afsis-soil-properties/leaderboard">1,233 teams</a>
+                </h2>
+                <h1><a href="/c/afsis-soil-properties">Africa Soil Property Prediction Challenge </a>
+                        </h1>
+
+                        
+
+                            <div id="comp-header-stats" class="finished">
+
+                                <div id="comp-header-stats-start">
+                                    Wed 27 Aug 2014
+                                </div>
+                                <div id="comp-header-stats-end">
+ &ndash;                                      Tue 21 Oct 2014
+                                        (22 months ago)
+                                </div>
+                            </div>
+                    </div>
+                </header>
+                <script type="text/javascript">
+                    jQuery(function ($) {
+                        $('#comp-header-details h1').textfill({ maxFontPixels: 26, innerTag: 'a' });
+                    });
+                </script>
+            <div class="comp-sidebar">
+                
+
+
+<div class="_panel" id="competition-dashboard">
+    <header>
+        <h1>Dashboard</h1>
+    </header>
+    <ul id="competition-dashboard-dropdown">
+        <li class="cd-home">
+            <a href="/c/afsis-soil-properties">Home</a>
+            <ul>
+                <li class="cd-data"><a href="/c/afsis-soil-properties/data">Data</a></li>
+
+                    <li class="cd-submit submission-link">
+                        <a class="comp-link" href="/c/afsis-soil-properties/submit">Make a submission</a>
+                    </li>
+            </ul>
+        </li>
+
+        <li class="cd-info">
+            <a id="open-info">Information</a>
+            <ul id="pages-flyout">
+                    <li>
+<a href="/c/afsis-soil-properties">Description</a>                    </li>
+                    <li>
+<a href="/c/afsis-soil-properties/details/evaluation">Evaluation</a>                    </li>
+                    <li>
+<a href="/c/afsis-soil-properties/rules">Rules</a>                    </li>
+                    <li>
+<a href="/c/afsis-soil-properties/details/prizes">Prizes</a>                    </li>
+                    <li>
+<a href="/c/afsis-soil-properties/details/timeline">Timeline</a>                    </li>
+                    <li>
+<a href="/c/afsis-soil-properties/details/winners">Winners</a>                    </li>
+
+            </ul>
+        </li>
+
+            <li class="cd-forum"><a href="/c/afsis-soil-properties/forums">Forum</a></li>
+
+
+            <li class="cd-leaderboard">
+                <a href="/c/afsis-soil-properties/leaderboard">Leaderboard</a>
+                    <ul class="flyout">
+                        <li><a href="/c/afsis-soil-properties/leaderboard/public">Public</a></li>
+                        <li><a href="/c/afsis-soil-properties/leaderboard/private">Private</a></li>
+                    </ul>
+            </li>
+
+
+                <li class="cd-team">
+                    <a href="/c/afsis-soil-properties/team">My Team</a>
+                        <ul>
+                            
+                                                            <li class="cd-github"><a href="/c/afsis-soil-properties/github">GitHub</a></li>
+                        </ul>
+                </li>
+                <li class="cd-submissions"><a href="/c/afsis-soil-properties/submissions">My Submissions</a></li>
+
+
+    </ul>
+</div>
+
+    <script type="text/javascript">
+        $(function () {
+            $(".cd-data").addClass("selected");
+        });
+    </script>
+
+                
+                        <div id="partial-mini-leaderboard"></div>
+                        <script type="text/javascript">
+                            jQuery(function ($) {
+                                $("#partial-mini-leaderboard").load("/c/3966/partial/mini-leaderboard");
+                            });
+                        </script>
+
+
+    <div class="widget _panel" id="compside-discussions">
+        <header>
+            <h1><a href="/c/afsis-soil-properties/forums">Forum (82 topics)</a></h1>
+        </header>
+
+        <ul>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10825/code-and-documentation-for-winning-solution/111271#post111271">Code and Documentation for Winning Solution</a></div>
+                    <div class="post-time">5 months ago</div>
+                </li>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10676/solutions-sharing/57884#post57884">Solutions sharing</a></div>
+                    <div class="post-time">21 months ago</div>
+                </li>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10906/getting-access-to-test-data/57875#post57875">Getting access to test data</a></div>
+                    <div class="post-time">21 months ago</div>
+                </li>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10839/2nd-place-solution/57339#post57339">2nd place solution</a></div>
+                    <div class="post-time">21 months ago</div>
+                </li>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10670/suggestion-for-the-competition-admin/57331#post57331">Suggestion for the competition admin</a></div>
+                    <div class="post-time">21 months ago</div>
+                </li>
+                <li>
+                    <div class="post-title"><a href="/c/afsis-soil-properties/forums/t/10831/3rd-place-solution-codilime-com/57289#post57289">3rd place solution - CodiLime.com</a></div>
+                    <div class="post-time">21 months ago</div>
+                </li>
+        </ul>
+
+    </div> 
+                    <div id="partial-stats-ticker"></div>
+                    <script type="text/javascript">
+                        jQuery(function ($) {
+                            $("#partial-stats-ticker").load("/c/3966/partial/stats");
+                        });
+                    </script>
+            </div>
+    <div class="data---africa-soil-property-prediction-challenge--page comp-content with-sidebar _panel">
+            <header class='data'>
+                <div class="simple-steps">
+                    <a class="info" href="/c/afsis-soil-properties">Competition Details</a>
+                    &raquo;
+                    <a class="data" href="/c/afsis-soil-properties/data">Get the Data</a>
+                        &raquo;
+                        <a class="submit" href="/c/afsis-soil-properties/submit">Make a submission</a>
+                </div>
+                    </header>
+                <div class="comp-content-inside">
+                    <div id="competition-intro">
+
+                    </div>
+
+
+
+
+
+<h3>Data Files</h3>
+
+
+
+    <table id="data-files" class="nicetable full roomy align-top border">   
+        <thead>
+            <tr>
+                <th colspan="2">File Name</th> 
+                <th>Available Formats</th>         
+            </tr> 
+        </thead>
+
+            <tbody  >
+                <tr>
+
+                    <td class="file-name" colspan="2" rowspan="1">sample_submission</td>
+                    <td>
+<a href="/c/afsis-soil-properties/download/sample_submission.csv" name="sample_submission.csv" onclick="window.Intercom(&#39;trackEvent&#39;,&#39;download_compdata&#39;,{&#39;comp_id&#39;: 3966});">.csv (13.51 kb)</a>                    </td>
+                </tr>
+
+            </tbody>
+            <tbody  >
+                <tr>
+
+                    <td class="file-name" colspan="2" rowspan="1">test</td>
+                    <td>
+<a href="/c/afsis-soil-properties/download/test.zip" name="test.zip" onclick="window.Intercom(&#39;trackEvent&#39;,&#39;download_compdata&#39;,{&#39;comp_id&#39;: 3966});">.zip (8.02 mb)</a>                    </td>
+                </tr>
+
+            </tbody>
+            <tbody  >
+                <tr>
+
+                    <td class="file-name" colspan="2" rowspan="1">train</td>
+                    <td>
+<a href="/c/afsis-soil-properties/download/train.zip" name="train.zip" onclick="window.Intercom(&#39;trackEvent&#39;,&#39;download_compdata&#39;,{&#39;comp_id&#39;: 3966});">.zip (12.67 mb)</a>                    </td>
+                </tr>
+
+            </tbody>
+    </table>
+    <script type="text/javascript">
+        $(function () {
+
+            // Decorate obselete files
+            $('#data-files a.obsolete').each(function () {
+                var obsoleteMsg = "Superseded by newer version";
+                if ($(this).data('msg')) {
+                    obsoleteMsg = $(this).attr('data-msg');
+                }
+
+                $(this).attr('title', obsoleteMsg);
+            });
+
+            // If we have a search parameter, try to immediately download the
+            // file of that name.
+            var search = this.location.search;
+            if (search.length) {
+                var selector = "#data-files a[name=\"" + search.substr(1) + "\"]";
+                var fileLink = $(selector);
+                if (fileLink.length == 1) {
+                        this.location = fileLink.prop("href");
+                }
+            }
+        });
+    </script>
+
+<div class="cms-page">
+    
+
+    <h2>File descriptions</h2>
+<ul>
+<li><strong>train.csv</strong> - the training set has 1158 rows.</li>
+<li><strong>test.csv</strong> - the test set has 728 rows.</li>
+<li><strong>sample_submission.csv</strong> - all zeros prediction, serving as a sample submission file in the correct format.</li>
+</ul>
+<h2>Data fields</h2>
+<p><strong>SOC, pH, Ca, P, Sand</strong> are the five target variables for predictions. The data have been monotonously transformed from the original measurements and thus include negative values. </p>
+<ul>
+<li><strong>PIDN: </strong>unique soil sample identifier</li>
+<li><strong>SOC:</strong> Soil organic carbon</li>
+<li><strong>pH:</strong> pH values</li>
+<li><strong>Ca: </strong>Mehlich-3 extractable Calcium</li>
+<li><strong>P:</strong> Mehlich-3 extractable Phosphorus</li>
+<li><strong>Sand: </strong>Sand content </li>
+<li><strong>m7497.96 - m599.76</strong>: There are 3,578 mid-infrared absorbance measurements. For example, the "m7497.96" column is the absorbance at wavenumber 7497.96 cm-1. We suggest you to remove spectra CO2 bands which are in the region m2379.76 to m2352.76, but you do not have to.</li>
+<li><strong>Depth:</strong> Depth of the soil sample (2 categories: "Topsoil", "Subsoil")</li>
+</ul>
+<p>We have also included some potential spatial predictors from remote sensing data sources. Short variable descriptions are provided below and additional descriptions can be found at <a href="http://www.africasoils.net/data/datasets">AfSIS data.</a> The data have been mean centered and scaled.</p>
+<ul>
+<li><strong>BSA:</strong> average long-term Black Sky Albedo measurements from MODIS satellite images (BSAN = near-infrared, BSAS = shortwave, BSAV = visible)</li>
+<li><strong>CTI:</strong> compound topographic index calculated from Shuttle Radar Topography Mission elevation data</li>
+<li><strong>ELEV:</strong> Shuttle Radar Topography Mission elevation data</li>
+<li><strong>EVI</strong>: average long-term Enhanced Vegetation Index from MODIS satellite images.</li>
+<li><strong>LST</strong>: average long-term Land Surface Temperatures from MODIS satellite images (LSTD = day time temperature, LSTN = night time temperature)</li>
+<li><strong>Ref</strong>: average long-term Reflectance measurements from MODIS satellite images (Ref1 = blue, Ref2 = red, Ref3 = near-infrared, Ref7 = mid-infrared)</li>
+<li><strong>Reli</strong>: topographic Relief calculated from Shuttle Radar Topography mission elevation data</li>
+<li><strong>TMAP &amp; TMFI</strong>: average long-term Tropical Rainfall Monitoring Mission data (TMAP = mean annual precipitation, TMFI = modified Fournier index)</li>
+</ul>
+<h2>BART Example</h2>
+<p>An example model using Bayesian Additive Regression Trees can be found <a href="http://afsiskaggle.qed.ai/">here</a>.</p>
+<h2>FAQ</h2>
+<p><strong>Why not more data?</strong></p>
+<p>We will not introduce additional data (e.g. georeference) at this stage of the competition. We think that would be confusing (to us), as we would really like to find out how predictive the spectral methods are/would be when they are applied in new places and/or at different points in time by data science experts such as yourselves. Subsequent Kaggle competitions may focus on explicitly spatial and or space-time predictions.</p>
+<p><strong>Background on data set creation</strong></p>
+<p>There have been a number of questions regarding why and how the data were ordered in the training and test sets. As some of you have surmised there is certainly geographical clustering in this dataset. This is due to the spatially stratified multilevel sampling design that was used to assemble the data. The following is an abbreviated version of how this came about.</p>
+<p>When the Africa Soil Information Service (AfSIS) project started in 2009, we were faced with the enormous logistical task of obtaining a representative sample covering ~18.1 million km2 of the non-desert portion of Africa, including Madagascar, that could be used as a baseline for monitoring soil and other ecosystem properties.</p>
+<p>The way we chose to go about this was to select 60, 10 × 10 km sized “Sentinel Landscapes”, stratified by the major Koeppen-Geiger climate zones of Africa, excluding the true deserts and some of the African countries which we were not allowed to work in at the time, due to security reasons.</p>
+<p>Within each of the 60 Sentinel Landscapes AfSIS field teams sampled 16, 1 km2 “Sampling Clusters” (1 km2 circular areas) with 10, 1000 m2, randomly located circular “Sampling Plots”.</p>
+<p>Topsoil (0-20 cm) and subsoil (20-50 cm) samples were subsequently recovered by physically mixing core subsamples from 4 locations within each Sampling Plot. Hence the intent was to obtain a representative multilevel/multistage sample consisting of:</p>
+<ul>
+<li><span style="font-size: 1em; line-height: 1.5em;">60 Sentinel Landscapes </span></li>
+<li><span style="font-size: 1em; line-height: 1.5em;">16 Sampling Clusters per Sentinel Landscape </span></li>
+<li><span style="font-size: 1em; line-height: 1.5em;">10 Sampling Plots per Sampling Cluster </span></li>
+<li><span style="font-size: 1em; line-height: 1.5em;">2 composite Soil Samples (topsoil &amp; subsoil) per Sampling Plot</span></li>
+</ul>
+<p><span style="font-size: 1em; line-height: 1.5em;">Multiply those numbers and you obtain the intended number of composite soil samples (19,200) that were to be collected in the field over a 4-year period between 2009-2012. </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">To achieve this target, we pre-generated appropriately randomized GPS coordinates for every Sampling Plot and, AfSIS field teams then navigated to (most) of those spots on the map to collect samples (insert n/N Sampling Plots). </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">As might be expected with an exercise of this magnitude, the actual total number of soil samples in this dataset is somewhat smaller than intended, as some locations were either completely inaccessible by 4WD vehicle and/or on foot or that had soil depth restrictions that prevented the field teams from recovering physical samples. </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">All physically recovered samples went into our lab (in Nairobi) to be characterized with the MIR spectral measurements that you are currently using. The potential spatial predictors, which cover the entire African continent (and beyond), were derived from NASA remote sensing data missions. </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">A 10% subsample of all the soils that were measured with the MIR method, subsequently went on to be characterized with more reference measurements. </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">“Reference measurements” are much more expensive (potentially hundreds of U$ per sample) and time-consuming. The other 90% of samples that were not characterized with “reference” methods have been physically archived, so that we can potentially retrieve those for calibrating new analytical methods and/or validating old methods. </span></p>
+<p><span style="font-size: 1em; line-height: 1.5em;">What is posted for this Kaggle is the complete spectral + reference dataset that we have currently, subject to the sampling procedures described above. The training and test data have been split along Sentinel Landscape levels because we are primarily interested in predicting soil properties at new Sentinel Landscapes.</span></p>
+</div>
+
+                </div>
+            </div>  
+        </div>
+    
+
+
+            </div>
+    </div> <!-- wrap -->
+    
+        <div id="footer">
+            <div id="footer-inside">
+                <div id="footer-social">
+                        <div id="social-links">
+            <a class="twitter" href="http://www.twitter.com/kaggle" title="Follow Kaggle on Twitter"></a>     
+                    <a class="facebook" href="http://www.facebook.com/kaggle" title="Follow Kaggle on Facebook"></a>           
+                    <a class="linkedin" href="http://www.linkedin.com/companies/kaggle" title="Follow Kaggle on LinkedIn"></a>        
+    </div><!-- social-links -->
+
+                </div>
+                <div id="footer-copyright">
+                    
+
+
+&copy; 2016 Kaggle Inc                </div>
+                <div id="footer-links">
+                    <a href="/team">Our Team</a>
+<a href="/careers">Careers</a>
+<a href="/terms">Terms</a>
+<a href="/privacy">Privacy</a> 
+<!--<a href="/Home/ContactPress">Press</a>-->
+<a href="/Home/contact">Contact/Support</a>
+                </div> <!-- footer-links -->
+            </div> <!-- footer-inside -->
+        </div> <!--footer-->
+
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                "HTML-CSS": {
+                    preferredFont: "TeX",
+                    availableFonts: ["STIX","TeX"],
+                    linebreaks: {
+                        automatic: true
+                    },
+                    EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+                },
+                tex2jax: {
+                    inlineMath: [ ["\\\\(","\\\\)"] ],
+                    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+                    processEscapes: true,
+                    ignoreClass: "tex2jax_ignore|dno"
+                },
+                TeX: {
+                    noUndefined: {
+                        attributes: {
+                            mathcolor: "red",
+                            mathbackground: "#FFEEEE",
+                            mathsize: "90%"
+                        }
+                    }
+                },
+                Macros: { 
+                    href: "{}" 
+                },
+                messageStyle: "none"
+            });
+        </script>
+        
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-12629138-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_setCustomVar', 1, 'usertype', 'registered', 2]);
+                _gaq.push(['_setCustomVar', 2, 'userid', '685599', 2]);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <script type="text/javascript">
+            /**
+        * Function that tracks a click on an outbound link in Google Analytics.
+        * This function takes a valid URL string as an argument, and uses that URL string
+        * as the event label.
+        * See: https://support.google.com/analytics/answer/1136920?hl=en
+        */
+            var trackOutboundLink = function(url) {
+                ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+                        function () {
+                            document.location = url;
+                        }
+                });
+            }
+        </script>
+
+
+    
+
+    <!-- Cheers, RD00155D485039p. -->
+</body>
+</html>

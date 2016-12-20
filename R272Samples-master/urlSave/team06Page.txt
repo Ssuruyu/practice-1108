@@ -1,0 +1,1674 @@
+
+<!DOCTYPE html>
+<html lang=en>
+<head><script type="text/javascript">
+//<![CDATA[
+(function(){function d(b){var a=b.type;window.removeEventListener?document.removeEventListener(a,d,!1):window.detachEvent?document.detachEvent("on"+a,d):elem["on"+a]=null;a=/visid_incap_hi_1337=([0-9]+)/.exec(document.cookie);try{document.cookie=null!=a?"visid_incap_hi_1337="+(parseInt(a[1])|e[b.type]):"visid_incap_hi_1337=0"}catch(c){}}if(-1==document.cookie.indexOf("visid_incap_hi_1337")){var e={mouseover:1,click:2,keydown:4},f=function(b,a,c){window.addEventListener?b.addEventListener(a,c,!1):
+window.attachEvent?b.attachEvent("on"+a,c):b["on"+a]=c};for(i in e)f(document,i,d)}})();
+// ]]>
+</script>
+<meta charset=utf-8 />
+<meta http-equiv=X-UA-Compatible content="IE=edge"/>
+<meta id=viewport name=viewport content="width=device-width, initial-scale=1"/>
+<title>STEM Education News -- ScienceDaily</title>
+<meta name=description content="Read the latest research relevant to STEM: education in science, technology, engineering and mathematics." id=metasummary />
+<meta name=keywords content="STEM; gender gap; science education; technology education; engineering; mathematics; school; learning; funding; priority; teacher; science standards; federal funding; curriculum ; educational policy; majoring in information systems; majoring in computing; majors in chemistry; GRE; Chemistry; students; public school; private school; Computer and Information Technology Science; Engineering; Geosciences; Life Sciences; Mathematical Sciences; Social Sciences; Physics; STEM Education and Learning Research; high-tech jobs; National Science Foundation; U.S. policy; entrepreneurial; entrepreneur; talented; high cost of education; CCSSM; common core state standards for mathematics; US secondary science education" id=metakeywords />
+<meta name=top content=""/>
+<meta name=section content=science_society />
+<meta name=topic content=stem_education />
+<meta name=quirky content=""/>
+<meta name=last-modified content="Thu, 11 Aug 2016 06:32:49 GMT"/>
+<meta name=expires content="Thu, 11 Aug 2016 06:37:49 GMT"/>
+<meta property=og:title id=og_title content="STEM Education News"/>
+<meta property=og:type content=article />
+<meta property=og:url id=og_url content="https://www.sciencedaily.com/news/science_society/stem_education/"/>
+<meta property=og:image id=og_image content=""/>
+<meta property=og:description id=og_description content="Read the latest research relevant to STEM: education in science, technology, engineering and mathematics."/>
+<meta property=og:site_name content=ScienceDaily />
+<link rel=canonical href="https://www.sciencedaily.com/news/science_society/stem_education/"/>
+<link rel=alternate type="application/rss+xml" title="ScienceDaily: Latest Science News" href="https://www.sciencedaily.com/rss/"/>
+<link href="/css/bootstrap.min.css" rel=stylesheet />
+<link href="/css/font-awesome.min.css" rel=stylesheet />
+<link href="/css/yamm.css" rel=stylesheet />
+<link href="/css/custom-201604121455.css" rel=stylesheet />
+<!--[if lt IE 9]>
+      <script src="/js/html5shiv.min.js"></script>
+      <script src="/js/respond.min.js"></script>
+    <![endif]--><script>
+   if (self === top) {
+       var notFramed = true;
+   } else {
+       top.location = self.location;
+   }
+   var domainArray = window.location.hostname.split('.').reverse();
+   var domainRoot = domainArray[1] + '.' + domainArray[0];
+</script><script src="/js/ads.js"></script><script>(deployads = window.deployads || []).pageSegment = 'topic';</script><script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31969-1', 'sciencedaily.com');
+  ga('send', 'pageview');
+
+</script><script>
+	var addthis_config = addthis_config || {};
+	addthis_config.pubid = 'sciencedaily';
+	var addthis_share = addthis_share || {};
+	addthis_share.url = 'https://www.sciencedaily.com/news/science_society/stem_education/';
+</script>
+</head>
+<body>
+<header><div class="container white">
+<div class="row header">
+<div class="col-sm-5 col-md-4 no-padding-right">
+<div class=logo>
+<a href="/" title=ScienceDaily><img src="/images/sd-logo.png" height=43 width=260 alt=ScienceDaily title=ScienceDaily /></a>
+<hr class=hr-logo />
+<div class=clearfix></div>
+<div class=motto>Your source for the latest research news</div>
+</div>
+</div>
+<div class="col-sm-7 col-md-8 no-padding-left hidden-xs">
+<div class=sharing>
+<div id=controls class=btn-group role=group aria-label=...>
+<a class="btn btn-default topbar hidden-xs hidden-sm">Mobile</a>
+<a href="https://itunes.apple.com/us/app/sciencedaily-for-iphone/id719769502?mt=8" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=iPhone><i class="fa fa-apple fa-fw"></i></a>
+<a href="https://play.google.com/store/apps/details?id=com.sciencedaily.sciencedaily&amp;hl=en" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=Android><i class="fa fa-android fa-fw"></i></a>
+<a class="btn btn-default topbar hidden-xs hidden-sm">Follow</a>
+<a href="https://www.facebook.com/sciencedaily" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=Facebook><i class="fa fa-facebook fa-fw"></i></a>
+<a href="https://twitter.com/sciencedaily" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=Twitter><i class="fa fa-twitter fa-fw"></i></a>
+<a href="https://plus.google.com/+sciencedaily" class="btn btn-default" data-toggle=tooltip data-placement=bottom title="Google+"><i class="fa fa-google-plus fa-fw"></i></a>
+<a href="https://www.linkedin.com/company/sciencedaily" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=LinkedIn><i class="fa fa-linkedin fa-fw"></i></a>
+<a class="btn btn-default topbar hidden-xs hidden-sm">Subscribe</a>
+<a href="/newsfeeds.htm" class="btn btn-default hidden-tiny" data-toggle=tooltip data-placement=bottom title="RSS Feeds"><i class="fa fa-rss fa-fw"></i></a>
+<a href="/newsletters.htm" class="btn btn-default" data-toggle=tooltip data-placement=bottom title=Newsletters><i class="fa fa-envelope-o fa-fw"></i></a>
+</div>
+</div>
+<div class="breaking-news hidden-xs">
+<span class=pull-left><strong><a href="/breaking/">Breaking<span class="hidden-xs hidden-sm"> News</span></a>:</strong></span>
+<span class=pull-left>
+<ul id=justin_headlines class="list-unstyled newsticker">
+<li><a href="/releases/2016/08/160809121418.htm">Drinking Water for Millions in US: Unsafe?</a></li>
+<li><a href="/releases/2016/08/160810143714.htm">Engineering a Better Biofuel</a></li>
+<li><a href="/releases/2016/08/160810143710.htm">Three Quarters of Threatened Species Imperiled</a></li>
+<li><a href="/releases/2016/08/160810142807.htm">Gene Signature in Healthy Brains: Alzheimer's</a></li>
+<li><a href="/releases/2016/08/160810150010.htm">Flooded Canyons on Saturn's Moon Titan</a></li>
+<li><a href="/releases/2016/08/160810143716.htm">Total Number of Neurons Hallmark of Human Brain</a></li>
+<li><a href="/releases/2016/08/160810113840.htm">Crude Oil Causes Deformities in Fish</a></li>
+<li><a href="/releases/2016/08/160810104248.htm">Loophole for Cancer Cells Found</a></li>
+<li><a href="/releases/2016/08/160810104013.htm">Gal&aacute;pagos Faces First-Ever Bird Extinction</a></li>
+<li><a href="/releases/2016/08/160810113700.htm">Arctic Methane Seeps: Specialized Life Forms</a></li>
+</ul></span>
+</div>
+</div>
+</div>
+<div class="top-leaderboard hidden-sm hidden-xs">
+<div class=ad-tag data-ad-name=Leaderboard data-ad-size=auto></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+</div>
+</header><div id=contents class="container white">
+<div class=row>
+<div class="col-sm-8 main less-padding-right">
+<div class=head>
+<div id=title class="pull-left head-left">STEM Education News</div>
+<div id=date class="pull-right head-right">August 11, 2016</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div id=heroes class=row>	<div class="col-xs-6 col-md-3">
+<div><a href="/releases/2016/01/160129131756.htm"><img src="https://images.sciencedaily.com/2016/01/160129131756_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/releases/2016/01/160129131756.htm">Finger Tracing Can Lift Math Performance</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/releases/2015/11/151110120441.htm"><img src="https://images.sciencedaily.com/2015/11/151110120441_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/releases/2015/11/151110120441.htm">Textbooks: Climate Deniers Featured in CA Science</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/releases/2015/09/150901140857.htm"><img src="https://images.sciencedaily.com/2015/09/150901140857_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/releases/2015/09/150901140857.htm">Math Skills Count for Premature Babies</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/releases/2015/07/150708141559.htm"><img src="https://images.sciencedaily.com/2015/07/150708141559_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/releases/2015/07/150708141559.htm">Lack of Education as Deadly as Smoking</a></h3>
+</div>
+</div>
+<div class="mobile-top-rectangle hidden-md hidden-lg">
+<div class=ad-tag data-ad-name=Rectangle data-ad-size=300x250></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<div class=subhead>
+<div class="pull-left subhead-left subhead">Latest Headlines</div>
+<div id=time class="pull-right subhead-right">updated 2:32am EDT</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div class=row>
+<div class="col-md-5 col-lg-6 featured-no-padding-right">
+<div id=featured_blurbs class="hero tab-content">	<div class="tab-pane active" id=featured_tab_1>
+<h3 class=latest-head><a href="/releases/2016/07/160713152148.htm">Calculus I Factors Women out of STEM Degrees</a></h3>
+<div class=latest-summary>
+<span class=story-date>July 13, 2016 &#151;</span> It's no secret that Calculus I is a major hurdle in the quest for a science degree. But, according to a new paper, the class is far more likely to discourage women than men from continuing on in ... <span class=more><a href="/releases/2016/07/160713152148.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_2>
+<h3 class=latest-head><a href="/releases/2016/06/160615135205.htm">Study Offers Explanation for Why Women Leave Engineering</a></h3>
+<div class=latest-summary>
+<span class=story-date>June 15, 2016 &#151;</span> Women who go to college intending to become engineers stay in the profession less often than men. Why is this? While multiple reasons have been offered in the past, a new study develops a novel ... <span class=more><a href="/releases/2016/06/160615135205.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_3>
+<h3 class=latest-head><a href="/releases/2016/06/160607080647.htm">Level of Education in a Given Country Correlates Well With Life Expectancy at Birth</a></h3>
+<div class=latest-summary>
+<span class=story-date>June 7, 2016 &#151;</span> Researchers suggest that educating the young as well as encouraging lifelong learning could both improve the figures still ... <span class=more><a href="/releases/2016/06/160607080647.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_4>
+<div class=row>
+<div class="col-xs-4 col-md-6">
+<div class=latest-image><a href="/releases/2016/06/160601132457.htm"><img src="https://images.sciencedaily.com/2016/06/160601132457_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 col-md-6 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/06/160601132457.htm">A Vision for Revamping Neuroscience Education</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=story-date>June 1, 2016 &#151;</span> The expanding scope and growing number of tools used for neuroscience is moving beyond what is taught in traditional graduate programs, say leaders in American neuroscience ... <span class=more><a href="/releases/2016/06/160601132457.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_5>
+<h3 class=latest-head><a href="/releases/2016/05/160530153256.htm">Increased Marrying, and Mating, by Education Level Not Affecting Genetic Make-Up</a></h3>
+<div class=latest-summary>
+<span class=story-date>May 30, 2016 &#151;</span> While the latter half of the 20th century showed a widening gap between the more and less educated with respect to marriage and fertility, this trend ... <span class=more><a href="/releases/2016/05/160530153256.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_6>
+<h3 class=latest-head><a href="/releases/2016/05/160519151910.htm">Refugee Children's Academic Outcomes Similar to Non-Refugee Peers Despite Learning Challenges</a></h3>
+<div class=latest-summary>
+<span class=story-date>May 19, 2016 &#151;</span> Refugee children had similar academic success as other children if adequately supported, despite having more behavioral and emotional problems ... <span class=more><a href="/releases/2016/05/160519151910.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_7>
+<h3 class=latest-head><a href="/releases/2016/05/160510084255.htm">Black Students More Likely to Be Identified as Gifted If Teachers Are Black</a></h3>
+<div class=latest-summary>
+<span class=story-date>May 10, 2016 &#151;</span> African-American children are three times as likely to be placed in gifted-education programs if they have a black teacher rather than a white teacher, according to ... <span class=more><a href="/releases/2016/05/160510084255.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_8>
+<h3 class=latest-head><a href="/releases/2016/04/160421133823.htm">Girls More Anxious About Mathematics, STEM Subjects Compared to Boys</a></h3>
+<div class=latest-summary>
+<span class=story-date>Apr. 21, 2016 &#151;</span> Women are underrepresented in some science, technology, engineering and mathematics (STEM) subjects and fields, global studies have shown. Even in countries with higher gender equality, sex ... <span class=more><a href="/releases/2016/04/160421133823.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_9>
+<div class=row>
+<div class="col-xs-4 col-md-6">
+<div class=latest-image><a href="/releases/2016/04/160415081508.htm"><img src="https://images.sciencedaily.com/2016/04/160415081508_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 col-md-6 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/04/160415081508.htm">Why Education Doesn't Bring Women Equal Pay</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=story-date>Apr. 15, 2016 &#151;</span> Women are closing the education gap with men, but a global study of gender equality using two decades of data form more than 150 countries shows these advances are failing to ... <span class=more><a href="/releases/2016/04/160415081508.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+<div class=tab-pane id=featured_tab_10>
+<h3 class=latest-head><a href="/releases/2016/04/160404090844.htm">Do Social Factors Affect Children&rsquo;s Educational Achievements More Than Cognitive Ability?</a></h3>
+<div class=latest-summary>
+<span class=story-date>Apr. 4, 2016 &#151;</span> It could be perceived that social status can be correlated with better life chances and educational achievements for children. But is it all about ... <span class=more><a href="/releases/2016/04/160404090844.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr class="hidden-md hidden-lg"/>
+</div>
+</div>
+</div>
+<div class="col-md-7 col-lg-6">
+<ul id=featured_shorts class="list-group hero-list hidden-xs hidden-sm"><li><a href="/releases/2016/07/160713152148.htm" data-tab="#featured_tab_1">Calculus I Factors Women out of STEM Degrees</a></li>
+<li><a href="/releases/2016/06/160615135205.htm" data-tab="#featured_tab_2">Why Do Women Leave Engineering?</a></li>
+<li><a href="/releases/2016/06/160607080647.htm" data-tab="#featured_tab_3">Too Old to Die Young</a></li>
+<li><a href="/releases/2016/06/160601132457.htm" data-tab="#featured_tab_4">A Vision for Revamping Neuroscience Education</a></li>
+<li><a href="/releases/2016/05/160530153256.htm" data-tab="#featured_tab_5">Mixing Education Pool Hasn't Affected Genetics</a></li>
+<li><a href="/releases/2016/05/160519151910.htm" data-tab="#featured_tab_6">Academic Outcomes of Refugee Children</a></li>
+<li><a href="/releases/2016/05/160510084255.htm" data-tab="#featured_tab_7">Gifted Black Students ID'd More by Black ...</a></li>
+<li><a href="/releases/2016/04/160421133823.htm" data-tab="#featured_tab_8">Girls More Anxious About STEM Than Boys</a></li>
+<li><a href="/releases/2016/04/160415081508.htm" data-tab="#featured_tab_9">Why Education Doesn't Bring Women Equal Pay</a></li>
+<li><a href="/releases/2016/04/160404090844.htm" data-tab="#featured_tab_10">Achievement: Social Factors, Cognitive Ability</a></li>
+</ul>
+</div>
+</div>
+<div class="mobile-middle-rectangle hidden-md hidden-lg">
+<div class=ad-tag data-ad-name=Rectangle2 data-ad-size=300x250></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<div id=video_section>
+<div class=subhead>
+<div class="pull-left subhead-left">Latest Videos</div>
+<div class="pull-right subhead-right">from news services</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div id=videos class=row>	<div class="col-xs-6 col-md-3">
+<div><a href="/videos/01bf676265504719b5cd0adc4db42a89.htm"><img src="https://images.sciencedaily.com/videos/2016/8/01bf676265504719b5cd0adc4db42a89.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/videos/01bf676265504719b5cd0adc4db42a89.htm">U.S. Olympic Hopefuls Get Boost from Track Tech</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/videos/b80d8ef82533018db155a941bb7c17e4.htm"><img src="https://images.sciencedaily.com/videos/2016/8/b80d8ef82533018db155a941bb7c17e4.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/videos/b80d8ef82533018db155a941bb7c17e4.htm">Zika Vaccine Trials Have Begun, But Funding Is About To Run Out</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/videos/9e2e516479122b1f1a02304d9ddd46ec.htm"><img src="https://images.sciencedaily.com/videos/2016/7/9e2e516479122b1f1a02304d9ddd46ec.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/videos/9e2e516479122b1f1a02304d9ddd46ec.htm">Brexit May Risk Britain's Health And Science Research</a></h3>
+</div>	<div class="col-xs-6 col-md-3">
+<div><a href="/videos/511ff10f327ffe90495313dd486d0715.htm"><img src="https://images.sciencedaily.com/videos/2016/7/511ff10f327ffe90495313dd486d0715.jpg" class=img-responsive width=180 height=120 /></a></div>
+<h3 class=hero><a href="/videos/511ff10f327ffe90495313dd486d0715.htm">You Can Blame Students For Ethiopia's Temporary Social Media Ban</a></h3>
+</div>
+</div>
+<div class=more>
+<hr class=hr-more />
+<div class="pull-right btn-group btn-group-sm" role=group aria-label=...>
+<a id=videos_more href="/videos/science_society/stem_education/" class="btn btn-default">more videos &nbsp; <i class="fa fa-chevron-right"></i></a>
+</div>
+<div class=clearfix></div>
+</div>
+</div>
+<div class=head>
+<div id=more_title class="pull-left head-left">More STEM Education News</div>
+<div id=more_date class="pull-right head-right">August 11, 2016</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div class=row>
+<div class="col-md-8 col-md-push-4">
+<div role=tabpanel class="right-tabs clearfix">
+<ul id=list class="nav nav-tabs" role=tablist>
+<li role=presentation class=active><a href="#summaries" aria-controls=summaries role=tab data-toggle=tab>Summaries</a></li>
+<li role=presentation><a href="#headlines" aria-controls=headlines role=tab data-toggle=tab>Headlines</a></li>
+</ul>
+<div class=clearfix></div>
+<div class=tab-content>
+<div role=tabpanel class="tab-pane active" id=summaries>	<h3 class=latest-head><a href="/releases/2016/08/160809145125.htm">General Support for Science Doesn't Always Correlate With Attitudes Toward Specific Issues</a></h3>
+<div class=latest-summary>
+<span class=gray>Aug. 9, 2016</span> &#151; US adults perform comparably to adults in other economically developed countries on most measures of science knowledge and support science in general, says a new report from the National Academies of ... <span class=more><a href="/releases/2016/08/160809145125.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/07/160728142925.htm">In France, Hiring Biases Slightly Favor Women in Male-Dominated STEM Fields</a></h3>
+<div class=latest-summary>
+<span class=gray>July 28, 2016</span> &#151; Women enjoy a slight advantage over men when applying to become science teachers in France, a new study ... <span class=more><a href="/releases/2016/07/160728142925.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/07/160720125527.htm">Making Parenting a National Priority in U.S.</a></h3>
+<div class=latest-summary>
+<span class=gray>July 20, 2016</span> &#151; A new report calls for a new national framework to support struggling parents. Developmental psychologists say the findings emphasize making parenting a national U.S. ... <span class=more><a href="/releases/2016/07/160720125527.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160629125947.htm">Findings Show Gender, Not Race, a Factor in College Engineering Dropouts</a></h3>
+<div class=latest-summary>
+<span class=gray>June 29, 2016</span> &#151; Researchers are exploring how ethnic and gender variables affect retention rates, goal setting and satisfaction among engineering students. Preliminary findings in the middle of this five-year study ... <span class=more><a href="/releases/2016/06/160629125947.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160629105938.htm">Blue-Collar Training in High School Leaves Women Behind</a></h3>
+<div class=latest-summary>
+<span class=gray>June 29, 2016</span> &#151; What's the best way to prepare high schoolers for jobs in the 21st century? Education leaders and the general public have been debating this question with more heat in recent years, clashing ... <span class=more><a href="/releases/2016/06/160629105938.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160623150431.htm">Part-Timers Now 49 Percent of Nation's College and University Faculty, Study Finds</a></h3>
+<div class=latest-summary>
+<span class=gray>June 23, 2016</span> &#151; Part-time workers now make up nearly half of the faculty of U.S. colleges and universities, according to the 2016 edition of The Condition of Education, a federal report on the nation&rsquo;s education ... <span class=more><a href="/releases/2016/06/160623150431.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160622144918.htm">Teachers Optimistic About Common Core Writing Standards, but Not Tests</a></h3>
+<div class=latest-summary>
+<span class=gray>June 22, 2016</span> &#151; Teachers believe the Common Core standards in their states can improve how they teach writing, but they also find plenty of shortcomings with the standards -- and with the associated state writing ... <span class=more><a href="/releases/2016/06/160622144918.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160620161047.htm">Lawmakers Might Introduce 'Anti-Evolution' Legislation to Appease Religious Constituents</a></h3>
+<div class=latest-summary>
+<span class=gray>June 20, 2016</span> &#151; 'Anti-evolution' education legislation continues to be introduced because lawmakers want to appease religious constituents, not because they expect the bills to be made into laws, new ... <span class=more><a href="/releases/2016/06/160620161047.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/06/160620160216.htm"><img src="https://images.sciencedaily.com/2016/06/160620160216_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/06/160620160216.htm">Study Focuses on Use of Instructional Videos to Aid Problem Solving</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>June 20, 2016</span> &#151; New research aims to help educators quantify how the best students perform problem solving with the aid of instructional videos, a step toward learning how to better coach students in difficult ... <span class=more><a href="/releases/2016/06/160620160216.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/06/160602094845.htm"><img src="https://images.sciencedaily.com/2016/06/160602094845_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/06/160602094845.htm">Gender Gap Discovered in Science Exam Performance</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>June 2, 2016</span> &#151; Male students in undergraduate introductory biology courses are outperforming females at test time, but it may be due to how exams are designed rather than academic ability, suggests new research. In ... <span class=more><a href="/releases/2016/06/160602094845.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/06/160601110723.htm"><img src="https://images.sciencedaily.com/2016/06/160601110723_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/06/160601110723.htm">Hands-on Science Courses Shown to Boost Graduation Rates, STEM Retention</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>June 1, 2016</span> &#151; Courses that engage college students in conducting scientific research early on can dramatically increase students' odds of completing a science, technology, engineering or math (STEM) degree, a ... <span class=more><a href="/releases/2016/06/160601110723.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/06/160601083804.htm">Perceived Values of Education from Young People's Perspectives</a></h3>
+<div class=latest-summary>
+<span class=gray>June 1, 2016</span> &#151; Studies of young people&rsquo;s perceived values of learning has resulted in a theoretical framework that can form the basis for further discussions and means to develop and understand ... <span class=more><a href="/releases/2016/06/160601083804.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/05/160519144858.htm"><img src="https://images.sciencedaily.com/2016/05/160519144858_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/05/160519144858.htm">Evolution and Religion: New Insight Into Instructor Attitudes in Arizona</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>May 19, 2016</span> &#151; In a first-of-its kind study, scientists have found that a majority of professors teaching biology in Arizona universities do not believe that helping students accept the theory of evolution is an ... <span class=more><a href="/releases/2016/05/160519144858.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/05/160517141115.htm">Financial Status Affects Success of Students With Learning Disabilities</a></h3>
+<div class=latest-summary>
+<span class=gray>May 17, 2016</span> &#151; Only one third of undergraduates from 11 universities who reported having a learning disability were receiving accommodations, a new study has ... <span class=more><a href="/releases/2016/05/160517141115.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/05/160505144854.htm"><img src="https://images.sciencedaily.com/2016/05/160505144854_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/05/160505144854.htm">Significant Portion of Postdoc Researchers Eye Non-Academic Careers, Study Shows</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>May 5, 2016</span> &#151; For doctoral students studying science, technology, engineering and mathematics, landing a job as a research-oriented college or university faculty member typically requires having spent time as a ... <span class=more><a href="/releases/2016/05/160505144854.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<div class=row>
+<div class=col-xs-4>
+<div class=latest-image><a href="/releases/2016/04/160427151014.htm"><img src="https://images.sciencedaily.com/2016/04/160427151014_1_180x120.jpg" class=img-responsive width=180 height=120 /></a></div>
+</div>
+<div class="col-xs-8 head-no-padding-left">
+<h3 class=latest-head><a href="/releases/2016/04/160427151014.htm">Transforming Teaching With Twitter</a></h3>
+</div>
+</div>
+<div class=latest-summary>
+<span class=gray>Apr. 27, 2016</span> &#151; Imagine a teaching tool so effective that students look forward to using it in class and continue to seek out new information with it after the school day ends. New research offers powerful evidence ... <span class=more><a href="/releases/2016/04/160427151014.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/04/160427080716.htm">Families With Kids Increasingly Live Near Families Just Like Them</a></h3>
+<div class=latest-summary>
+<span class=gray>Apr. 27, 2016</span> &#151; Neighborhoods are becoming less diverse and more segregated by income -- but only among families with children, a new study has ... <span class=more><a href="/releases/2016/04/160427080716.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/04/160426120816.htm">Shifting Gaps in Educational Attainment Among Students of Different Incomes</a></h3>
+<div class=latest-summary>
+<span class=gray>Apr. 26, 2016</span> &#151; A new study looks at income-based gaps in educational attainment. While the difference in high school graduation rates between high- and low-income students shrunk, inequality may have shifted to ... <span class=more><a href="/releases/2016/04/160426120816.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/04/160426110655.htm">Does Learning Improve When Every Student Gets a Laptop?</a></h3>
+<div class=latest-summary>
+<span class=gray>Apr. 26, 2016</span> &#151; Schools that provide each student with a laptop computer, as well as the appropriate support for both students and teachers, see significant improvement in academic achievement, a new paper ... <span class=more><a href="/releases/2016/04/160426110655.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>	<h3 class=latest-head><a href="/releases/2016/04/160418130646.htm">American Teacher Panel Surveys Teachers' Knowledge, Perceptions of State Standards</a></h3>
+<div class=latest-summary>
+<span class=gray>Apr. 18, 2016</span> &#151; In June and October of 2015, investigators surveyed teachers on their understanding of state standards and what instructional materials are used in the classroom to teach the standards, as well as ... <span class=more><a href="/releases/2016/04/160418130646.htm">read more</a> <i class="fa fa-angle-double-right red"></i></span>
+</div>
+<hr/>
+</div>
+<div role=tabpanel class=tab-pane id=headlines><div class=headlines-date>Tuesday, August 9, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/08/160809145125.htm">General support for science doesn't always correlate with attitudes toward specific issues</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, July 28, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/07/160728142925.htm">In France, hiring biases slightly favor women in male-dominated STEM fields</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, July 20, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/07/160720125527.htm">Making parenting a national priority in U.S.</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, June 29, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160629125947.htm">Findings show gender, not race, a factor in college engineering dropouts</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160629105938.htm">Blue-collar training in high school leaves women behind</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, June 23, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160623150431.htm">Part-timers now 49 percent of nation's college and university faculty, study finds</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, June 22, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160622144918.htm">Teachers optimistic about Common Core writing standards, but not tests</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, June 20, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160620161047.htm">Lawmakers might introduce 'anti-evolution' legislation to appease religious constituents</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160620160216.htm">Study focuses on use of instructional videos to aid problem solving</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, June 2, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160602094845.htm">Gender gap discovered in science exam performance</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, June 1, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160601110723.htm">Hands-on science courses shown to boost graduation rates, STEM retention</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/06/160601083804.htm">Perceived values of education from young people's perspectives</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, May 19, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/05/160519144858.htm">Evolution and religion: New insight into instructor attitudes in Arizona</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, May 17, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/05/160517141115.htm">Financial status affects success of students with learning disabilities</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, May 5, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/05/160505144854.htm">Significant portion of postdoc researchers eye non-academic careers, study shows</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, April 27, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160427151014.htm">Transforming teaching with Twitter</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160427080716.htm">Families with kids increasingly live near families just like them</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, April 26, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160426120816.htm">Shifting gaps in educational attainment among students of different incomes</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160426110655.htm">Does learning improve when every student gets a laptop?</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, April 18, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160418130646.htm">American teacher panel surveys teachers' knowledge, perceptions of state standards</a>
+</li>
+</ul>
+<div class=headlines-date>Sunday, April 10, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160410150533.htm">Rating the teacher education rating systems: New study finds leading programs fall short</a>
+</li>
+</ul>
+<div class=headlines-date>Friday, April 1, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160401220714.htm">Preference for dating smarter partners negatively affects women's attitudes toward STEM</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/04/160401130619.htm">Number of science, engineering graduate students up in 2014</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, March 30, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160330124111.htm">Girls benefit from extra lessons, but what about boys?</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160330123500.htm">Race biases teachers' expectations for students</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160330085602.htm">Classroom program increases school breakfast participation, not obesity</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, March 24, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160324150118.htm">Taking stock of U. S. science literacy broadly</a>
+</li>
+</ul>
+<div class=headlines-date>Friday, March 18, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160318085653.htm">College can cultivate innovative entrepreneurial intentions</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, March 17, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160317105627.htm">Students as teachers effective in STEM subjects</a>
+</li>
+</ul>
+<div class=headlines-date>Friday, March 11, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160311105427.htm">Science curriculum tailored to English language learners boosts student achievement</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, March 10, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160310141230.htm">Spending on public higher education overlooks net benefits as investment in state's future</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, March 9, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160309125418.htm">Nations ranked on their vulnerability to cyberattacks</a>
+</li>
+</ul>
+<div class=headlines-date>Friday, March 4, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/03/160304092750.htm">Pros and cons of video games in schools</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, February 22, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160222220814.htm">New reports show positive, negative effects of Louisiana school voucher program</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, February 18, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160218083505.htm">Good but few and underpaid: Female inventors gain 14% less than men</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, February 17, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160217090810.htm">Public pre-K boosted test taking for gifted, talented programs</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, February 11, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160211185937.htm">Male biology students consistently underestimate female peers, study finds</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160211183958.htm">First nationwide survey of climate change education</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, February 2, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160202192012.htm">Targeted teacher turnover boosts teacher quality, student achievement</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160202143745.htm">Building a foundation for computer science for all</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, February 1, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/02/160201084403.htm">Teachers reported moderate to major concerns prior to 2015 state testing</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, January 19, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160119153500.htm">Group learning makes children better decision-makers, study finds</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160119151244.htm">U.S. science and technology leadership increasingly challenged by advances in Asia</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160119142740.htm">Is level of education the key factor in finding a match through online dating?</a>
+</li>
+</ul>
+<div class=headlines-date>Saturday, January 16, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160116215422.htm">Feral cats: Computational study looks at how best to fix the nuisance</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, January 14, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160114114141.htm">New lab to give nation's researchers remote access to robots</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, January 13, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160113100601.htm">Teaching social justice to privileged students necessary for change</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, January 12, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160112102016.htm">How black men can succeed in IT careers</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, January 11, 2016</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2016/01/160111135235.htm">Girls should expect poorer physics grades, new report suggests</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, December 21, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/12/151221133842.htm">New study tests three-step intervention to increase faculty gender diversity in STEM</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, December 14, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/12/151214142018.htm">Universities' messages about socioeconomic diversity can affect academic confidence&nbsp;</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, December 9, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/12/151209091359.htm">Low wages not education to blame for STEM skills gap</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, November 30, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151130182251.htm">Income-based school assignment policy influences diversity, achievement</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, November 23, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151123100924.htm">Urgent attention needed to improve education for Syrian refugee children, report finds</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, November 19, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151119161013.htm">Number of high-skilled Mexican entrepreneurs migrating to US has increased</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151119122321.htm">Youth violence undermines social and economic development in poorest corners of the world</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, November 10, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151110171921.htm">Pinpointing poverty with cellphone data</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, November 9, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151109182516.htm">School choice programs lead to private school revenue gains</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151109142424.htm">End 'stem cell tourism,' experts urge</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, November 5, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151105113425.htm">Assessing ecosystem services: Increasing the impact on decision making</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151105092008.htm">State school pupils do better at university, research confirms</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, November 3, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151103064738.htm">Empathetic teachers enhance children's motivation for learning</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, November 2, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151102152824.htm">For-profit and community college graduates earn same hiring interest from employers</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/11/151102130250.htm">Do we need a national movement on the microbiome?</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, October 27, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151027075002.htm">Good grades in classes with immigrants, Norwegian study shows</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, October 22, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151022141747.htm">Language literacy in kindergarten important for success in learning English</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, October 21, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151021120620.htm">Teenagers and mutant tomatoes</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, October 15, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151015144814.htm">Scholars challenge colleges to reform STEM learning</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, October 7, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151007144931.htm">Sobering picture of urban education in the US</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, October 5, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151005132728.htm">Immigrants play increasing role in U.S. science, engineering workforce</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151005120803.htm">Study examines antibullying policies, bullying in 25 states</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, October 1, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151001093840.htm">Five recommendations for standardized test designers</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/10/151001094443.htm">New system helps teachers gain back valuable instruction time</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, September 30, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150930110417.htm">Math and me: Children who identify with math get higher scores</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150930074433.htm">More obesity among the less educated in rich countries</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150930073212.htm">Are American schools making inequality worse?</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, September 21, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150921151428.htm">New, forward-thinking report addresses environmental research, education</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, September 17, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150917135258.htm">Training more effective teachers through alternative pathways</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, September 16, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150916112612.htm">Choice of college major influences lifetime earnings more than simply getting a degree</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, September 15, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150915211328.htm">Why middle class people are more likely to play music, paint and act revealed</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, September 10, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/09/150910110826.htm">Snapshot of Americans' knowledge of science</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, August 27, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/08/150827121928.htm">To get girls more interested in computer science, make classrooms less 'geeky'</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, August 25, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/08/150825115034.htm">Technology won't replace collaboration among students</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, August 19, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/08/150819103553.htm">Educational expansion created more marriages by same educational level, race</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/08/150819083654.htm">Key professions losing staff due to lack of support for student mothers</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, July 29, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150729215743.htm">Links between individual characteristics, disability employment gap found</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150729155143.htm">Science educators analyze genetics content of Next Generation Science Standards</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, July 28, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150728162622.htm">When being an immigrant makes it more&ndash;not less&ndash;likely to have a job</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150728162455.htm">More secondary schools serve healthier lunches</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150728120200.htm">Geography, skills, local companies affect higher education impact on economic development</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150728092358.htm">Few science museums use the word 'agriculture' to teach</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, July 27, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150727153737.htm">Compulsory schooling laws could bolster free community college argument</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, July 22, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150722141430.htm">Schools with higher black, minority populations call cops, not docs</a>
+</li>
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150722130410.htm">Readiness of America's biology teachers questioned</a>
+</li>
+</ul>
+<div class=headlines-date>Monday, July 20, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150720141348.htm">Achieving equity in higher education</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, July 16, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150716141602.htm">Innovative physical education curriculum triples rate at which students pass a state physical fitness test</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, July 15, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150715155432.htm">Pre-college science programs lead to more science majors</a>
+</li>
+</ul>
+<div class=headlines-date>Thursday, July 9, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150709092617.htm">Invest ~3.5 percent GDP in science, technology, innovation for sustainable development, experts say</a>
+</li>
+</ul>
+<div class=headlines-date>Wednesday, July 1, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/07/150701152323.htm">Income-tax earnings data gives more accurate picture of value of college degree</a>
+</li>
+</ul>
+<div class=headlines-date>Tuesday, June 30, 2015</div>
+<ul class="fa-ul list-padded">
+<li>
+<i class="fa fa-li fa-angle-right"></i><a href="/releases/2015/06/150630121400.htm">New cardiac arrest recommendations: Increased CPR/AED training will improve survival rates</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=load-more-container>
+<button id=load_more_stories type=button class="btn btn-custom" data-loading-text="&lt;i class='fa fa-refresh fa-spin'&gt;&lt;/i&gt; &nbsp; Loading ...">
+<i class="fa fa-refresh"></i> &nbsp; <span>Load more stories</span>
+</button>
+</div>
+<div class="mobile-bottom-rectangle hidden-md hidden-lg">
+<div class=ad-tag data-ad-name=Rectangle3 data-ad-size=300x250></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+</div>
+<div class="col-md-4 col-md-pull-8 less-padding-left">
+<div class="left-skyscraper center-block hidden-sm hidden-xs">
+<div class=ad-tag data-ad-name=Skyscraper data-ad-size=160x600></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<div class="row hidden-xs">
+<div class="col-xs-6 col-md-12">
+<ul id=directory class="nav topics"><li class=nav-header><a href="/news/">LATEST NEWS</a></li>
+<li class=nav-header>
+<a href="/news/top/">TOP NEWS</a>
+<ul class="nav subnav">
+<li><a href="/news/top/science/">Top Science</a></li>
+<li><a href="/news/top/health/">Top Health</a></li>
+<li><a href="/news/top/technology/">Top Physical/Tech</a></li>
+<li><a href="/news/top/environment/">Top Environment</a></li>
+<li><a href="/news/top/society/">Top Society/Education</a></li>
+</ul>
+</li>
+<li class=nav-header>
+<a href="/news/top/health/">HEALTH</a>
+<ul class="nav subnav">
+<li><a href="/news/health_medicine/">Health &amp; Medicine</a></li>
+<li><a href="/news/mind_brain/">Mind &amp; Brain</a></li>
+<li><a href="/news/living_well/">Living Well</a></li>
+</ul>
+</li>
+<li class=nav-header>
+<a href="/news/top/technology/">PHYSICAL/TECH</a>
+<ul class="nav subnav">
+<li><a href="/news/space_time/">Space &amp; Time</a></li>
+<li><a href="/news/matter_energy/">Matter &amp; Energy</a></li>
+<li><a href="/news/computers_math/">Computers &amp; Math</a></li>
+</ul>
+</li>
+<li class=nav-header>
+<a href="/news/top/environment/">ENVIRONMENT</a>
+<ul class="nav subnav">
+<li><a href="/news/plants_animals/">Plants &amp; Animals</a></li>
+<li><a href="/news/earth_climate/">Earth &amp; Climate</a></li>
+<li><a href="/news/fossils_ruins/">Fossils &amp; Ruins</a></li>
+</ul>
+</li>
+<li class=nav-header>
+<a href="/news/top/society/">SOCIETY &amp; EDUCATION</a>
+<ul class="nav subnav">
+<li class=active><a href="/news/science_society/">Science &amp; Society</a></li>
+<ul class="nav list-unstyled">
+<li class=nav-subheader><a href="/news/business_industry/">Business &amp; Industry</a></li>
+</ul>
+<ul class="nav nav-condensed fa-ul">
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/industrial_relations/">Industrial Relations</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/media_and_entertainment/">Media and Entertainment</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/retail_and_services/">Retail and Services</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/security_and_defense/">Security and Defense</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/travel_and_recreation/">Travel and Recreation</a>
+</li>
+</ul>
+<ul class="nav list-unstyled">
+<li class=nav-subheader><a href="/news/education_learning/">Culture</a></li>
+</ul>
+<ul class="nav nav-condensed fa-ul">
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/arts_and_culture/">Arts and Culture</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/religion/">Religion</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/sports/">Sports</a>
+</li>
+</ul>
+<ul class="nav list-unstyled">
+<li class=nav-subheader><a href="/news/education_learning/">Education &amp; Learning</a></li>
+</ul>
+<ul class="nav nav-condensed fa-ul">
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/education_and_employment/">Education and Employment</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/educational_policy/">Educational Policy</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/poverty_and_learning/">Poverty and Learning</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/stem_education/">STEM Education</a>
+</li>
+</ul>
+<ul class="nav list-unstyled">
+<li class=nav-subheader><a href="/news/science_society/social_issues/">Science Policy</a></li>
+</ul>
+<ul class="nav nav-condensed fa-ul">
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/energy_issues/">Energy Issues</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/environmental_policy/">Environmental Policies</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/funding_policy/">Funding Policy</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/government_regulation/">Government Regulation</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/ocean_policy/">Ocean Policy</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/privacy_issues/">Privacy Issues</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/public_health/">Public Health</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/scientific_conduct/">Scientific Conduct</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/space_policy/">Space Policy</a>
+</li>
+</ul>
+<ul class="nav list-unstyled">
+<li class=nav-subheader><a href="/news/science_society/social_issues/">Social Issues</a></li>
+</ul>
+<ul class="nav nav-condensed fa-ul">
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/bioethics/">Bioethics</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/conflict/">Conflict</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/consumerism/">Consumerism</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/disaster_plan/">Disaster Plan</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/economics/">Economics</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/ethics/">Ethics</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/justice/">Justice</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/land_management/">Land Management</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/legal_issues/">Legal Issues</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/political_science/">Political Science</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/popular_culture/">Popular Culture</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/racial_disparity/">Racial Disparity</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/resource_shortage/">Resource Shortage</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/surveillance/">Surveillance</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/transportation_issues/">Transportation Issues</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/urbanization/">Urbanization</a>
+</li>
+<li>
+<i class="fa-li fa fa-angle-right"></i><a href="/news/science_society/world_development/">World Development</a>
+</li>
+</ul>
+<li><a href="/news/business_industry/">Business &amp; Industry</a></li>
+<li><a href="/news/education_learning/">Education &amp; Learning</a></li>
+</ul>
+</li>
+<li class=nav-header>
+<a href="/news/strange_offbeat/">QUIRKY</a>
+<ul class="nav subnav">
+<li><a href="/news/strange_offbeat/">Strange &amp; Offbeat</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 less-padding-left sidebar no-print hidden-xs">
+<div class="pull-right btn-group btn-group-sm tools-top hidden-tiny hidden-xs" role=group aria-label=...>
+<a class="btn btn-default print black"><i class="fa fa-print"></i> &nbsp; <span class=hidden-sm>Print</span>
+</a><a class="btn btn-default addthis_button_email black"><i class="fa fa-envelope"></i> &nbsp; <span class=hidden-sm>Email</span></a>
+<a class="btn btn-default addthis_button_more black"><i class="fa fa-share"></i> &nbsp; <span class=hidden-sm>Share</span></a>
+</div>
+<div class=clearfix></div>
+<hr class=hr-tools-top />
+<div class="top-rectangle hidden-tiny hidden-xs hidden-sm">
+<div class=ad-tag data-ad-name=Rectangle data-ad-size=300x250></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<div id=subscribe>
+<div class=red><strong>Subscribe for Free</strong></div>
+<hr class=subscribe-rule />
+<p>Get ScienceDaily's <span id=newsfeed>STEM Education News</span>, delivered daily via email or RSS:</p>
+<ul class="list-unstyled subscribe-list">
+<li>
+<i class="fa fa-envelope fa-fw"></i> <a id=newsletter href="http://feedburner.google.com/fb/a/mailverify?uri=sciencedaily/science_society/stem_education">Email newsletter</a>
+</li>
+<li>
+<i class="fa fa-rss fa-fw"></i> <a id=rssfeed href="/rss/science_society/stem_education.xml">RSS feed</a>
+</li>
+</ul>
+</div>
+<div class=head>
+<div id=most_popular_heading class="pull-left head-left">Most Popular</div>
+<div class="pull-right head-right">this week</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div id=most_popular_section1_head class=side-subhead><a href="/news/science_society/" class=gray>SCIENCE &amp; SOCIETY</a>
+</div>
+<div id=most_popular_section1>
+<h5 class=clearfix><a href="/releases/2016/08/160804141252.htm"><img src="https://images.sciencedaily.com/2016/08/160804141252_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Melting Ice Sheet Could Expose Frozen Cold War-Era Hazardous Waste</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160809145123.htm"><img src="https://images.sciencedaily.com/2016/08/160809145123_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>1967 Solar Storm Nearly Took US to Brink of War</a></h5>
+<h5 class=clearfix><a href="/releases/2016/07/160730154602.htm"><img src="https://images.sciencedaily.com/2016/07/160730154602_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>A New Leaf: Scientists Turn Carbon Dioxide Back Into Fuel</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160803095208.htm"><img src="https://images.sciencedaily.com/2016/08/160803095208_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Rich Bugs Revealed: Homes in Wealthier Neighborhoods Host a Greater Diversity of Insects</a></h5>
+</div>
+<div id=most_popular_section2_head class=side-subhead><a href="/news/business_industry/" class=gray>BUSINESS &amp; INDUSTRY</a>
+</div>
+<div id=most_popular_section2>
+<h5 class=clearfix><a href="/releases/2012/03/120319163811.htm"><img src="https://images.sciencedaily.com/2012/03/120319163811_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Biplane to Break the Sound Barrier: Cheaper, Quieter and Fuel-Efficient Biplanes Could Put Supersonic Travel on the Horizon</a></h5>
+</div>
+<div id=most_popular_section3_head class=side-subhead><a href="/news/education_learning/" class=gray>EDUCATION &amp; LEARNING</a>
+</div>
+<div id=most_popular_section3>
+<h5 class=clearfix><a href="/releases/2016/08/160808144906.htm"><img src="https://images.sciencedaily.com/2016/08/160808144906_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Early Brain Connections Key to Reading</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160804135417.htm">Curiosity Has the Power to Change Behavior for the Better</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160804171649.htm">Kindergarteners' Mathematics Success Hinges on Preschool Skills</a></h5>
+<h5 class=clearfix><a href="/releases/2016/07/160728143247.htm"><img src="https://images.sciencedaily.com/2016/07/160728143247_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>No Dream: Electric Brain Stimulation During Sleep Can Boost Memory</a></h5>
+</div>
+<div class="half-page hidden-sm hidden-xs">
+<div class=ad-tag data-ad-name=HalfPage data-ad-size=300x600></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<div class=head>
+<div id=strange_offbeat_heading class="pull-left head-left">Strange &amp; Offbeat</div>
+<div class="pull-right head-right">&nbsp;</div>
+</div>
+<div class=clearfix></div>
+<hr class=head-rule />
+<div id=strange_offbeat_section1_head class=side-subhead><a href="/news/strange_offbeat/science_society/" class=gray>SCIENCE &amp; SOCIETY</a>
+</div>
+<div id=strange_offbeat_section1>
+<h5 class=clearfix><a href="/releases/2016/08/160809145123.htm"><img src="https://images.sciencedaily.com/2016/08/160809145123_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>1967 Solar Storm Nearly Took US to Brink of War</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160804172359.htm">Viewing Video in Slow Motion Makes Action Appear More Intentional, New Study Finds</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160804171639.htm"><img src="https://images.sciencedaily.com/2016/08/160804171639_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Sharks Get Bad Rap When Viewed With Ominous Background Music</a></h5>
+<h5 class=clearfix><a href="/releases/2016/08/160803095208.htm"><img src="https://images.sciencedaily.com/2016/08/160803095208_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Rich Bugs Revealed: Homes in Wealthier Neighborhoods Host a Greater Diversity of Insects</a></h5>
+</div>
+<div id=strange_offbeat_section2_head class=side-subhead><a href="/news/strange_offbeat/business_industry/" class=gray>BUSINESS &amp; INDUSTRY</a>
+</div>
+<div id=strange_offbeat_section2>
+<h5 class=clearfix><a href="/releases/2016/07/160721073012.htm">Light-Bulb Moment for Stock Market Behavior</a></h5>
+<h5 class=clearfix><a href="/releases/2016/07/160701183552.htm"><img src="https://images.sciencedaily.com/2016/07/160701183552_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Technique from Biology Helps Explain the Evolution of the American Car</a></h5>
+<h5 class=clearfix><a href="/releases/2016/06/160608104402.htm">How Will Automated Technology Affect Communication-Related Jobs?</a></h5>
+<h5 class=clearfix><a href="/releases/2016/05/160519121514.htm">Benefit of Organizational Misconduct: Others in Group May Work Harder, Study Says</a></h5>
+</div>
+<div id=strange_offbeat_section3_head class=side-subhead><a href="/news/strange_offbeat/education_learning/" class=gray>EDUCATION &amp; LEARNING</a>
+</div>
+<div id=strange_offbeat_section3>
+<h5 class=clearfix><a href="/releases/2016/07/160728143247.htm"><img src="https://images.sciencedaily.com/2016/07/160728143247_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>No Dream: Electric Brain Stimulation During Sleep Can Boost Memory</a></h5>
+<h5 class=clearfix><a href="/releases/2016/07/160719091622.htm"><img src="https://images.sciencedaily.com/2016/07/160719091622_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Scientists Predict Academic Achievement from DNA Alone</a></h5>
+<h5 class=clearfix><a href="/releases/2016/05/160527090916.htm">Rapid Bone Growth and Underwater Breathing: Putting the Science of Harry Potter&rsquo;s Universe to the Test</a></h5>
+<h5 class=clearfix><a href="/releases/2016/04/160414095949.htm"><img src="https://images.sciencedaily.com/2016/04/160414095949_1_75x50.jpg" class=side-image width=75 height=50 alt=""/>Electrical Brain Stimulation Enhances Creativity</a></h5>
+</div>
+<div class="bottom-rectangle hidden-sm hidden-xs">
+<div class=ad-tag data-ad-name=Rectangle2 data-ad-size=300x250></div>
+<script src="//tags-cdn.deployads.com/a/sciencedaily.com.js" async></script><script>(deployads = window.deployads || []).push({});</script>
+</div>
+<hr class=hr-tools-bottom />
+<div class="pull-right btn-group btn-group-sm tools-bottom" role=group aria-label=...>
+<a class="btn btn-default addthis_button_print black"><i class="fa fa-print"></i> &nbsp; <span class=hidden-sm>Print</span>
+</a><a class="btn btn-default addthis_button_email black"><i class="fa fa-envelope"></i> &nbsp; <span class=hidden-sm>Email</span></a>
+<a class="btn btn-default addthis_button_more black"><i class="fa fa-share"></i> &nbsp; <span class=hidden-sm>Share</span></a>
+</div>
+<div class=clearfix></div>
+</div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class=adsbygoogle style=display:block data-ad-client=ca-pub-1787672658759074 data-ad-slot=6476882601 data-ad-format=autorelaxed></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br/><div id=trendmd-suggestions></div>
+<br/>
+</div>
+<div id=navwrapper>
+<div id=topnav>
+<nav class="navbar yamm navbar-default navbar-static navbar-custom"><div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed menu" data-toggle=collapse data-target="#navbar" aria-expanded=false aria-controls=navbar>
+<span class=sr-only>Toggle navigation</span>
+<span>Menu &nbsp;<i class="fa fa-bars"></i></span>
+</button>
+<a class="navbar-toggle collapsed mode"><i class="fa fa-desktop fa-fw"></i> Full<span class=hidden-tiny> View</span></a>
+<a class="navbar-toggle collapsed fs-widget"></a>
+<a class="navbar-brand visible-xs" href="/"><span class=icon-s>S<span class=icon-d>D</span></span></a>
+<ul class="nav navbar-nav hidden-xs">
+<li class=dropdown>
+<a href="#" class="navbar-brand dropdown-toggle" data-toggle=dropdown role=button aria-expanded=false><span class=icon-s>S<span class=icon-d>D</span></span></a>
+<ul class="dropdown-menu brand" role=menu>
+<li><a href="/">Home Page</a></li>
+<li class=divider>
+</li>
+<li><a href="/news/top/science/">Top Science News</a></li>
+<li><a href="/videos/top/science/">Top Science Videos</a></li>
+<li class=divider>
+</li>
+<li><a href="/news/">Latest News</a></li>
+<li><a href="/videos/">Latest Videos</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id=navbar class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="dropdown visible-xs">
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Home <span class=caret></span></a>
+<ul class=dropdown-menu role=menu>
+<li><a href="/">Home Page</a></li>
+<li class=divider>
+</li>
+<li><a href="/news/top/science/">Top Science News</a></li>
+<li><a href="/videos/top/science/">Top Science Videos</a></li>
+<li class=divider>
+</li>
+<li><a href="/news/">Latest News</a></li>
+<li><a href="/videos/">Latest Videos</a></li>
+</ul>
+</li>
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Health <span class=caret></span></a>
+<ul class="dropdown-menu dropdown-menu-left" role=menu>
+<li class=menu-item>
+<div class="yamm-content hyphenate">
+<div>View all the latest <strong><a href="/news/top/health/">top news</a></strong> and <strong><a href="/videos/top/health/">top videos</a></strong> in the health sciences, <span class="hidden-xs hidden-sm"><br/></span>or browse the topics below:</div>
+<div class=row>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/health_medicine/">Health &amp; Medicine</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/health_medicine/allergy/">Allergy</a></li>
+<li><a href="/news/health_medicine/alternative_medicine/">Alternative Medicine</a></li>
+<li><a href="/news/health_medicine/birth_control/">Birth Control</a></li>
+<li><a href="/news/health_medicine/cancer/">Cancer</a></li>
+<li><a href="/news/health_medicine/diabetes/">Diabetes</a></li>
+<li><a href="/news/health_medicine/diseases_and_conditions/">Diseases</a></li>
+<li><a href="/news/health_medicine/heart_disease/">Heart Disease</a></li>
+<li><a href="/news/health_medicine/hiv_and_aids/">HIV and AIDS</a></li>
+<li><a href="/news/health_medicine/obesity/">Obesity</a></li>
+<li><a href="/news/health_medicine/stem_cells/">Stem Cells</a></li>
+<li><a href="/news/health_medicine/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/mind_brain/">Mind &amp; Brain</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/mind_brain/add_and_adhd/">ADD and ADHD</a></li>
+<li><a href="/news/mind_brain/addiction/">Addiction</a></li>
+<li><a href="/news/mind_brain/alzheimer's/">Alzheimer's</a></li>
+<li><a href="/news/mind_brain/autism/">Autism</a></li>
+<li><a href="/news/mind_brain/depression/">Depression</a></li>
+<li><a href="/news/mind_brain/headaches/">Headaches</a></li>
+<li><a href="/news/mind_brain/intelligence/">Intelligence</a></li>
+<li><a href="/news/mind_brain/psychology/">Psychology</a></li>
+<li><a href="/news/mind_brain/relationships/">Relationships</a></li>
+<li><a href="/news/mind_brain/schizophrenia/">Schizophrenia</a></li>
+<li><a href="/news/mind_brain/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/living_well/">Living Well</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/mind_brain/parenting/">Parenting</a></li>
+<li><a href="/news/health_medicine/pregnancy_and_childbirth/">Pregnancy</a></li>
+<li><a href="/news/health_medicine/sexual_health/">Sexual Health</a></li>
+<li><a href="/news/health_medicine/skin_care/">Skin Care</a></li>
+<li><a href="/news/health_medicine/men's_health/">Men's Health</a></li>
+<li><a href="/news/health_medicine/women's_health/">Women's Health</a></li>
+<li><a href="/news/health_medicine/nutrition/">Nutrition</a></li>
+<li><a href="/news/health_medicine/diet_and_weight_loss/">Diet and Weight Loss</a></li>
+<li><a href="/news/health_medicine/fitness/">Fitness</a></li>
+<li><a href="/news/health_medicine/healthy_aging/">Healthy Aging</a></li>
+<li><a href="/news/living_well/">... <em>more topics</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false><span class="hidden-sm hidden-md">Physical/</span>Tech <span class=caret></span></a>
+<ul class="dropdown-menu dropdown-menu-left" role=menu>
+<li class=menu-item>
+<div class="yamm-content hyphenate">
+<div>View all the latest <strong><a href="/news/top/technology/">top news</a></strong> and <strong><a href="/videos/top/technology/">top videos</a></strong> in the physical sciences &amp; technology, <span class="hidden-xs hidden-sm"><br/></span>or browse the topics below:</div>
+<div class=row>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/matter_energy/">Matter &amp; Energy</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/matter_energy/aviation/">Aviation</a></li>
+<li><a href="/news/matter_energy/chemistry/">Chemistry</a></li>
+<li><a href="/news/matter_energy/electronics/">Electronics</a></li>
+<li><a href="/news/matter_energy/fossil_fuels/">Fossil Fuels</a></li>
+<li><a href="/news/matter_energy/nanotechnology/">Nanotechnology</a></li>
+<li><a href="/news/matter_energy/physics/">Physics</a></li>
+<li><a href="/news/matter_energy/quantum_physics/">Quantum Physics</a></li>
+<li><a href="/news/matter_energy/solar_energy/">Solar Energy</a></li>
+<li><a href="/news/matter_energy/technology/">Technology</a></li>
+<li><a href="/news/matter_energy/wind_energy/">Wind Energy</a></li>
+<li><a href="/news/matter_energy/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/space_time/">Space &amp; Time</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/space_time/astronomy/">Astronomy</a></li>
+<li><a href="/news/space_time/black_holes/">Black Holes</a></li>
+<li><a href="/news/space_time/dark_matter/">Dark Matter</a></li>
+<li><a href="/news/space_time/extrasolar_planets/">Extrasolar Planets</a></li>
+<li><a href="/news/space_time/mars/">Mars</a></li>
+<li><a href="/news/space_time/moon/">Moon</a></li>
+<li><a href="/news/space_time/solar_system/">Solar System</a></li>
+<li><a href="/news/space_time/space_telescopes/">Space Telescopes</a></li>
+<li><a href="/news/space_time/stars/">Stars</a></li>
+<li><a href="/news/space_time/sun/">Sun</a></li>
+<li><a href="/news/space_time/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/computers_math/">Computers &amp; Math</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/computers_math/artificial_intelligence/">Artificial Intelligence</a></li>
+<li><a href="/news/computers_math/communications/">Communications</a></li>
+<li><a href="/news/computers_math/computer_science/">Computer Science</a></li>
+<li><a href="/news/computers_math/hacking/">Hacking</a></li>
+<li><a href="/news/computers_math/mathematics/">Mathematics</a></li>
+<li><a href="/news/computers_math/quantum_computers/">Quantum Computers</a></li>
+<li><a href="/news/computers_math/robotics/">Robotics</a></li>
+<li><a href="/news/computers_math/software/">Software</a></li>
+<li><a href="/news/computers_math/video_games/">Video Games</a></li>
+<li><a href="/news/computers_math/virtual_reality/">Virtual Reality</a></li>
+<li><a href="/news/computers_math/">... <em>more topics</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Enviro<span class=hidden-sm>nment</span> <span class=caret></span></a>
+<ul class="dropdown-menu dropdown-menu-left" role=menu>
+<li class=menu-item>
+<div class="yamm-content hyphenate">
+<div>View all the latest <strong><a href="/news/top/environment/">top news</a></strong> and <strong><a href="/videos/top/environment/">top videos</a></strong> in the environmental sciences, <span class="hidden-xs hidden-sm"><br/></span>or browse the topics below:</div>
+<div class=row>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/plants_animals/">Plants &amp; Animals</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/plants_animals/agriculture_and_food/">Agriculture and Food</a></li>
+<li><a href="/news/plants_animals/animals/">Animals</a></li>
+<li><a href="/news/plants_animals/biology/">Biology</a></li>
+<li><a href="/news/plants_animals/biotechnology/">Biotechnology</a></li>
+<li><a href="/news/plants_animals/endangered_animals/">Endangered Animals</a></li>
+<li><a href="/news/plants_animals/extinction/">Extinction</a></li>
+<li><a href="/news/plants_animals/genetically_modified/">Genetically Modified</a></li>
+<li><a href="/news/plants_animals/microbes_and_more/">Microbes and More</a></li>
+<li><a href="/news/plants_animals/new_species/">New Species</a></li>
+<li><a href="/news/plants_animals/zoology/">Zoology</a></li>
+<li><a href="/news/plants_animals/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/earth_climate/">Earth &amp; Climate</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/earth_climate/climate/">Climate</a></li>
+<li><a href="/news/earth_climate/earthquakes/">Earthquakes</a></li>
+<li><a href="/news/earth_climate/environmental_science/">Environment</a></li>
+<li><a href="/news/earth_climate/geography/">Geography</a></li>
+<li><a href="/news/earth_climate/geology/">Geology</a></li>
+<li><a href="/news/earth_climate/global_warming/">Global Warming</a></li>
+<li><a href="/news/earth_climate/hurricanes_and_cyclones/">Hurricanes</a></li>
+<li><a href="/news/earth_climate/ozone_holes/">Ozone Holes</a></li>
+<li><a href="/news/earth_climate/pollution/">Pollution</a></li>
+<li><a href="/news/earth_climate/weather/">Weather</a></li>
+<li><a href="/news/earth_climate/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/fossils_ruins/">Fossils &amp; Ruins</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/fossils_ruins/ancient_civilizations/">Ancient Civilizations</a></li>
+<li><a href="/news/fossils_ruins/anthropology/">Anthropology</a></li>
+<li><a href="/news/fossils_ruins/archaeology/">Archaeology</a></li>
+<li><a href="/news/fossils_ruins/dinosaurs/">Dinosaurs</a></li>
+<li><a href="/news/fossils_ruins/early_humans/">Early Humans</a></li>
+<li><a href="/news/fossils_ruins/early_mammals/">Early Mammals</a></li>
+<li><a href="/news/fossils_ruins/evolution/">Evolution</a></li>
+<li><a href="/news/fossils_ruins/lost_treasures/">Lost Treasures</a></li>
+<li><a href="/news/fossils_ruins/origin_of_life/">Origin of Life</a></li>
+<li><a href="/news/fossils_ruins/paleontology/">Paleontology</a></li>
+<li><a href="/news/fossils_ruins/">... <em>more topics</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Society<span class="hidden-sm hidden-md">/Education</span> <span class=caret></span></a>
+<ul class="dropdown-menu dropdown-menu-left" role=menu>
+<li class=menu-item>
+<div class="yamm-content hyphenate">
+<div>View all the latest <strong><a href="/news/top/society/">top news</a></strong> and <strong><a href="/videos/top/society/">top videos</a></strong> in the social sciences &amp; education, <span class="hidden-xs hidden-sm"><br/></span>or browse the topics below:</div>
+<div class=row>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/science_society/">Science &amp; Society</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/science_society/arts_and_culture/">Arts &amp; Culture</a></li>
+<li><a href="/news/science_society/consumerism/">Consumerism</a></li>
+<li><a href="/news/science_society/economics/">Economics</a></li>
+<li><a href="/news/science_society/political_science/">Political Science</a></li>
+<li><a href="/news/science_society/privacy_issues/">Privacy Issues</a></li>
+<li><a href="/news/science_society/public_health/">Public Health</a></li>
+<li><a href="/news/science_society/racial_disparity/">Racial Disparity</a></li>
+<li><a href="/news/science_society/religion/">Religion</a></li>
+<li><a href="/news/science_society/sports/">Sports</a></li>
+<li><a href="/news/science_society/world_development/">World Development</a></li>
+<li><a href="/news/science_society/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/business_industry/">Business &amp; Industry</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/plants_animals/biotechnology_and_bioengineering/">Biotechnology &amp; Bioengineering</a></li>
+<li><a href="/news/computers_math/computers_and_internet/">Computers &amp; Internet</a></li>
+<li><a href="/news/matter_energy/energy_and_resources/">Energy &amp; Resources</a></li>
+<li><a href="/news/matter_energy/engineering/">Engineering</a></li>
+<li><a href="/news/matter_energy/medical_technology/">Medical Technology</a></li>
+<li><a href="/news/health_medicine/pharmaceuticals/">Pharmaceuticals</a></li>
+<li><a href="/news/matter_energy/transportation/">Transportation</a></li>
+<li><a href="/news/business_industry/">... <em>more topics</em></a></li>
+</ul>
+</div>
+<div class=col-xs-4>
+<div class=menu-section><a href="/news/education_learning/">Education &amp; Learning</a></div>
+<ul class="list-unstyled menu-topics">
+<li><a href="/news/plants_animals/animal_learning_and_intelligence/">Animal Learning &amp; Intelligence</a></li>
+<li><a href="/news/mind_brain/creativity/">Creativity</a></li>
+<li><a href="/news/mind_brain/educational_psychology/">Educational Psychology</a></li>
+<li><a href="/news/computers_math/educational_technology/">Educational Technology</a></li>
+<li><a href="/news/mind_brain/infant_and_preschool_learning/">Infant &amp; Preschool Learning</a></li>
+<li><a href="/news/mind_brain/learning_disorders/">Learning Disorders</a></li>
+<li><a href="/news/science_society/stem_education/">STEM Education</a></li>
+<li><a href="/news/education_learning/">... <em>more topics</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Quirky <span class=caret></span></a>
+<ul class=dropdown-menu role=menu>
+<li><a href="/news/strange_offbeat/">Top News</a></li>
+<li><a href="/videos/strange_offbeat/">Top Videos</a></li>
+<li class=divider>
+</li>
+<li><a href="/news/strange_offbeat/human_quirks/">Human Quirks</a></li>
+<li><a href="/news/strange_offbeat/odd_creatures/">Odd Creatures</a></li>
+<li><a href="/news/strange_offbeat/bizarre_things/">Bizarre Things</a></li>
+<li><a href="/news/strange_offbeat/weird_world/">Weird World</a></li>
+</ul>
+</li>
+<li><a class="mode hidden-xs"><i class="fa fa-desktop fa-fw"></i> Full View</a></li>
+</ul>
+<form action="/search/" class="navbar-form navbar-right" role=search>
+<a class="fs-widget hidden-xs"></a>
+<div class="form-group search">
+<div class=input-group>
+<input id=keyword name=keyword class="form-control hidden-sm" placeholder=Search /><span class=input-group-btn><button class="btn btn-default" type=submit><i class="fa fa-search"></i></button></span>
+<input type=hidden id=list_view value=summaries /><input type=hidden id=saved_summaries /><input type=hidden id=saved_headlines /><input type=hidden id=excluded_filenames value="160129131756,151110120441,150901140857,150708141559,160713152148,160615135205,160607080647,160601132457,160530153256,160519151910,160510084255,160421133823,160415081508,160404090844"/>
+</div>
+</div>
+</form>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<footer><div class="container light-gray">
+<div class="row footer-links">
+<div class="col-sm-6 col-md-3">
+<div class=footer-head>Free Subscriptions</div>
+<hr class=footer-rule />
+<p>Get the latest science news with ScienceDaily's free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:</p>
+<ul class="list-unstyled footer-list">
+<li>
+<i class="fa fa-envelope fa-fw"></i> <a href="/newsletters.htm">Email Newsletters</a>
+</li>
+<li>
+<i class="fa fa-rss fa-fw"></i> <a href="/newsfeeds.htm">RSS Feeds</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<div class=footer-head>Follow Us</div>
+<hr class=footer-rule />
+<p>Keep up to date with the latest news from ScienceDaily via social networks:</p>
+<ul class="list-unstyled footer-list">
+<li>
+<i class="fa fa-facebook fa-fw"></i> <a href="https://www.facebook.com/sciencedaily">Facebook</a>
+</li>
+<li>
+<i class="fa fa-twitter fa-fw"></i> <a href="https://twitter.com/sciencedaily">Twitter</a>
+</li>
+<li>
+<i class="fa fa-google-plus fa-fw"></i> <a href="https://plus.google.com/+sciencedaily">Google+</a>
+</li>
+<li>
+<i class="fa fa-linkedin fa-fw"></i> <a href="https://www.linkedin.com/company/sciencedaily">LinkedIn</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<div class=footer-head>Mobile Apps</div>
+<hr class=footer-rule />
+<p>Get the latest news from ScienceDaily via our free mobile apps, available for download on the following platforms:</p>
+<ul class="list-unstyled footer-list">
+<li>
+<i class="fa fa-apple fa-fw"></i> <a href="https://itunes.apple.com/us/app/sciencedaily-for-iphone/id719769502?mt=8">iPhone/iPad</a>
+</li>
+<li>
+<i class="fa fa-android fa-fw"></i> <a href="https://play.google.com/store/apps/details?id=com.sciencedaily.sciencedaily&amp;hl=en">Android</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<div class=footer-head>Have Feedback?</div>
+<hr class=footer-rule />
+<p>Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?</p>
+<ul class="list-unstyled footer-list">
+<li>
+<i class="fa fa-comment fa-fw"></i> <a href="https://sciencedaily.wufoo.com/forms/sciencedaily-feedback/">Leave Feedback</a>
+</li>
+<li>
+<i class="fa fa-phone fa-fw"></i> <a href="/contact.htm">Contact Us</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container dark-gray">
+<div class=bottom-links>
+<a href="/about.htm">About This Site</a> &nbsp;|&nbsp; <a href="/staff.htm">Editorial Staff</a> &nbsp;|&nbsp; <a href="/awards.htm">Awards &amp; Reviews</a> &nbsp;|&nbsp; <a href="/contribute.htm">Contribute</a> &nbsp;|&nbsp; <a href="/advertise.htm">Advertise</a> &nbsp;|&nbsp; <a href="/privacy.htm">Privacy Policy</a> &nbsp;|&nbsp; <a href="/terms.htm">Terms of Use</a>
+</div>
+<div>
+<a href="/copyright.htm">Copyright 2016 ScienceDaily</a> or by third parties, where indicated. All rights controlled by their respective owners.</div>
+<div>Content on this website is for information only. It is not intended to provide medical or other professional advice.</div>
+<div>Views expressed here do not necessarily reflect those of ScienceDaily, its staff, its contributors, or its partners.</div>
+</div>
+</footer><script src="/js/jquery.min.js"></script><script src="/js/bootstrap.min.js"></script><script src="/js/ie10-viewport-bug-workaround.js"></script><script src="/js/jquery.newsTicker.min.js"></script><script src="/js/bootstrap-datepicker.min.js"></script><script src="/js/jquery.cookie.js"></script><script src="/js/jquery.fontResize-201506101219.js"></script><script src="/js/fastclick.js"></script><script src="/js/custom-201602110747.js"></script><script src="//trendmd.s3.amazonaws.com/trendmd.min.js"></script><script>
+	TrendMD.register({journal_id: 53828, element: '#trendmd-suggestions', track_id: null});
+</script><script>
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-5b6qhwG1mz5To"
+});
+</script><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-5b6qhwG1mz5To.gif" border=0 height=1 width=1 alt=Quantcast />
+</div>
+</noscript>
+<script>
+_atrk_opts = { atrk_acct:"egAok1a0CMq052", domain:"sciencedaily.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=egAok1a0CMq052" style=display:none height=1 width=1 alt=""/></noscript>
+<script>
+(function() {
+  var as = document.createElement('script');
+  as.src = '//s7.addthis.com/js/300/addthis_widget.js';
+  as.async = true;
+  as.type = 'text/javascript';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(as, s);
+})();
+</script><script src="https://api.b2c.com/api/init-5684m7zebvyktnz1se.js" data-cfasync=false async></script><noscript><img src="https://api.b2c.com/api/noscript-5684m7zebvyktnz1se.gif"/></noscript>
+</body>
+</html>

@@ -1,0 +1,9 @@
+name: KPinvestments
+account: pecu
+server: shinyapps.io
+appId: 122971
+bundleId: 544556
+url: https://pecu.shinyapps.io/KPinvestments/
+when: 1472570503.49339
+asMultiple: FALSE
+asStatic: FALSE

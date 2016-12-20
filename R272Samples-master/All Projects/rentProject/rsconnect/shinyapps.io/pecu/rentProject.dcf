@@ -1,0 +1,9 @@
+name: rentProject
+account: pecu
+server: shinyapps.io
+appId: 123479
+bundleId: 546710
+url: https://pecu.shinyapps.io/rentProject/
+when: 1472723150.8238
+asMultiple: FALSE
+asStatic: FALSE
