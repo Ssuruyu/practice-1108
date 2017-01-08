@@ -18,7 +18,9 @@ navbarPage("House Price USA", id="hprice",
                          width = 330, height = "auto",
                          h2("ZIP explorer"),
                          
-                        selectInput("feature", "Features", vars[3:7])
+                        selectInput("features", "Features", vars[3:7]),
+                        plotOutput("hisCentile", height = 200),
+                        textOutput("testSelect")
                          )
          ),
         tabPanel("show XXX")

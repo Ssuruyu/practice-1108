@@ -1,0 +1,46 @@
+---
+title: "Pecu Team 3"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 你是不是曾經有過這樣的困擾...
+video
+<iframe height=498 width=510 src="video1.mp4" frameborder=0 allowfullscreen></iframe>
+
+
+## Why
+
+<div class="red2">**問題:計價不一**</div>
+
+<img src="mic.png" height="230" width="230">
+分店
+<img src="store.png" height="230" width="230">
+ktv品牌  
+                                 
+  
+  <img src="time.png" height="230" width="230">
+  時段
+  <img src="people.png" height="230" width="230">
+  人數
+ 
+
+## How  
+  
+  <div class="blue3">**solution**</div>
+  提供節省時間又能快速選擇的整合網站 [our website](https://evanyo25.github.io/dPD_ktv/index.html)
+<img src="cover.png" height="400" width="650">
+<img src="QR.png" height="100" width="100">
+
+
+## Our Vision
+<table><tr><td bgcolor=orange>增加評論功能 擴展至其他娛樂活動</td></tr></table>
+
+
+
+
+
+

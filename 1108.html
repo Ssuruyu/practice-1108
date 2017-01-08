@@ -7,6 +7,8 @@
 </head>
 <body>
 <script type="text/javascript">
+var width = 800;
+var height = 600;
 var parseTime = d3.timeParse("%d-%b-%y");
 d3.csv("./stocks.csv", 
 
@@ -20,7 +22,17 @@ d3.csv("./stocks.csv",
 			}
 		);
 		var ctrl = d3.select("body").
-		   append("svg").attr("width",800).attr("height".600);
+		   append("svg").attr("width",800).attr("height",600);
+		var valueline = d3.line().
+		x(
+			function(d){
+				return x(d.date);
+			}).
+		y(
+			function(d)
+			{
+				return y(d.close);
+			});
 	}
 
 );

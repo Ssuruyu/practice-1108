@@ -8,15 +8,31 @@
 library(shiny)
 source("readdata.R")
 
-shinyServer(function(input, output) {
+function(input, output) {
   output$myMap <- renderLeaflet({
       leaflet() %>%
-        addTiles(
-          urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
-          attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>'
-        ) %>%
+        addTiles() %>%
         setView(lng = -93.85, lat = 37.45, zoom = 4)
+     })
   
-    })
-  
+observe({
+  leafletProxy("map", data = houseprice) %>%
+    cleanShapes() %>%
+    addCircles(~longitude, ~latitude, radius=radius, layerId= ~)
 })
+  output$testSelect <- renderText({
+    test = paste0("getvalue <- houseprice$", input$features)
+    print(test)
+  })  
+
+  
+  output$hisCentile <- renderPlot({
+    id = which(colnames(houseprice) == input$features)
+    getvalue <- houseprice[,id]
+    hist(getvalue)
+    
+  #test = paste0("getvalue <- houseprice$", input$features)  
+  #eval
+  #eval(parse(test = "getvalue <- houseprice$price"))
+  })
+}
