@@ -1,11 +1,13 @@
 ---
-title: "Pecu Team 3"
+title: "Pecu Team 3" 
 output: ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+#我要當歌手
 
 ## ***你是不是曾經有過這樣的困擾...***
 
@@ -35,7 +37,19 @@ http://ppt.cc/d1j7F
 
 
 ## ***Our Vision***
-<table><tr><td bgcolor=orange>增加評論功能 擴展至其他娛樂活動</td></tr></table>
+1.評論功能
+
+<img src="grade.jpg" height="150" width="300">
+
+2.擴展至其他娛樂活動
+
+<img src="movie.png" height="150" width="150">
+<img src="wine.png" height="150" width="150">
+<img src="wheel.svg" height="150" width="150">
+<img src="bowling.png" height="150" width="150">
+<img src="game.png" height="150" width="150">
+
+
 
 
 
