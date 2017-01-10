@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## ***你是不是曾經有過這樣的困擾...***
 
-<iframe height=498 width=510 src="video3.mp4" frameborder=0 allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz8o8Tx8vtg?autoplay=o" frameborder="0" allowfullscreen></iframe>
 
 
 ## ***Why***
@@ -32,9 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="cover.png" height="500" width="800">
 
 ## ***Link***
-<img src="QR.png" height="400" width="400">
-http://ppt.cc/d1j7F
-
+<img src="QR.png" height="400" width="400"><a href="http://ppt.cc/d1j7F" target="_self" title="連結替代文字">http://ppt.cc/d1j7F</a>
 
 ## ***Our Vision***
 1.評論功能
