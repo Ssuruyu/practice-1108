@@ -7,7 +7,8 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#我要當歌手
+# 
+[ ]!first.png
 
 ## ***你是不是曾經有過這樣的困擾...***
 
@@ -47,9 +48,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="bowling.png" height="150" width="150">
 <img src="game.png" height="150" width="150">
 
-## 1
 
-<iframe width="560" height="315" src="vedio3.mp4?autostart=false"  frameborder="0" allowfullscreen></iframe>
  
 
 
