@@ -69,7 +69,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 <h2 style = "color:white">地圖搜尋</h2>
-<div style="text-align: center"><img src="map.png" height="500" width="900"></div>
+<div style="text-align: center"><img src="map1.png" height="500" width="900"></div>
 
 
 ##
@@ -107,3 +107,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="wheel.svg" height="150" width="150">
 <img src="bowling.png" height="150" width="150">
 <img src="game.png" height="150" width="150">
+
+##
+<div style="text-align: center"><h2 style = "color:white">有了這個平台，人人都可以成為歌手！！！</h2>
+<img src="last.jpg" height="530" width="900"></div>
