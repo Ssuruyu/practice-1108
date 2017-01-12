@@ -6,9 +6,7 @@ output: ioslides_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-# 
-[ ]!first.png
+#我要當歌手
 
 ## ***你是不是曾經有過這樣的困擾...***
 
