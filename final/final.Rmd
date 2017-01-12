@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 <h2 style = "color:white">Why</h2>
-<div class="white">**計價方式因不同因素而有差異**</div>
+<div class="white">**計價方式因不同因素而有差異**
 <div style="text-align: center"><img src="mic.png" height="230" width="230">
 **KTV品牌**
 <img src="store.png" height="230" width="230">
