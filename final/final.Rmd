@@ -13,32 +13,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<img src="01.jpg" height="600" width="900">
+<div style="text-align: center"><img src="01.jpg" height="600" width="900"></div>
 
 ---
 
-<img src="02.png" height="600" width="900">
+<div style="text-align: center"><img src="02.png" height="600" width="900"></div>
 
 ---
 
-<img src="03.jpg" height="600" width="900">
+<div style="text-align: center"><img src="03.jpg" height="600" width="900"></div>
 
 ---
 
-<img src="04.jpg" height="600" width="900">
+<div style="text-align: center"><img src="04.jpg" height="600" width="900"></div>
 
 ---
 
-<img src="05.jpg" height="600" width="900">
+<div style="text-align: center"><img src="05.jpg" height="600" width="900"></div>
 
 ---
 
-<img src="06.jpg" height="600" width="900">
+<div style="text-align: center"><img src="06.jpg" height="600" width="900"></div>
 
 
-## ***Why***
+##
+<h2 style = "color:white">Why</h2>
 <div class="white">**計價方式因不同因素而有差異**</div>
-<img src="mic.png" height="230" width="230">
+<div style="text-align: center"><img src="mic.png" height="230" width="230">
 **KTV品牌**
 <img src="store.png" height="230" width="230">
 **分店**
@@ -46,47 +47,55 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="time.png" height="230" width="230">
 **日期時段**
 <img src="people.png" height="230" width="230">
-**人數**
+**人數**</div>
  
 
-## ***How***  
-<div class="white">**提供節省時間又能快速選擇的整合網站**</div>
+## 
+<h2 style = "color:white">How</h2>
+<div style="text-align: center"><div class="white">**提供節省時間又能快速選擇的整合網站**</div>
 <img src="cover.png" height="480" width="750">
-<a href="http://ppt.cc/d1j7F" target="_self" title="連結替代文字">http://ppt.cc/d1j7F</a>
+<a href="http://ppt.cc/d1j7F" target="_self" title="連結替代文字">http://ppt.cc/d1j7F</a></div>
 
 
 ---
+<h2 style = "color:white">選單</h2>
+<div style="text-align: center"><img src="list.png" height="600" width="1000"></div>
 
-<img src="list.png" height="600" width="1000">
-
-##Our Members
-
-<div class="white">**由新聞媒體、商管、經濟的背景組成**</div>
+##
+<h2 style = "color:white">Our Members</h2>
+<div style="text-align: center"><div class="white">**由新聞媒體、商管、經濟的背景組成**</div>
 <div class="white">**我們是一群喜愛唱歌的人**</div>
-<img src="teammate.png" height="300" width="1000">
+<img src="teammate.png" height="300" width="1000"></div>
 
-##地圖搜尋
-<img src="map.png" height="500" width="900">
-
-
-##找店家
-<img src="review.png" height="500" width="900">
-
-##KTV計算機
-<img src="outlook.png" height="600" width="900">
-
-##依需求做選擇
-<img src="choose.png" height="600" width="900">
-
-##包廂計價 v.s 人頭計價
-<img src="result.png" height="600" width="1000">
-
-##馬上找店家
-<img src="storeweb.png" height="600" width="900">
+##
+<h2 style = "color:white">地圖搜尋</h2>
+<div style="text-align: center"><img src="map.png" height="500" width="900"></div>
 
 
+##
+<h2 style = "color:white">找店家</h2>
+<div style="text-align: center"><img src="review.png" height="500" width="900"></div>
 
-## ***Our Vision***
+##
+<h2 style = "color:white">KTV計算機</h2>
+<div style="text-align: center"><img src="outlook.png" height="600" width="900"></div>
+
+##
+<h2 style = "color:white">依需求做選擇</h2>
+<div style="text-align: center"><img src="choose.png" height="600" width="900"></div>
+
+##
+<h2 style = "color:white">包廂計價 v.s 人頭計價</h2>
+<div style="text-align: center"><img src="result.png" height="600" width="1000"></div>
+
+##
+<h2 style = "color:white">馬上找店家</h2>
+<div style="text-align: center"><img src="storeweb.png" height="600" width="900"></div>
+
+
+
+## 
+<h2 style = "color:white">Our vision</h2>
 <div class="white">1.評論功能</div>
 
 <img src="grade.jpg" height="150" width="300">
