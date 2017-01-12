@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 <h2 style = "color:white">選單</h2>
-<div style="text-align: center"><img src="list.png" height="600" width="1000"></div>
+<div style="text-align: center"><img src="list.png" height="530" width="1000"></div>
 
 ##
 <h2 style = "color:white">Our Members</h2>
