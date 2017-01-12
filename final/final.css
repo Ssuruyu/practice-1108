@@ -1,6 +1,23 @@
 .title-slide{
 	background-image: url("https://ssuruyu.github.io/practice-1108/final/cover.png");
-	background-color: : red;
+	style="color:"white";
   	background-repeat: no-repeat;
  
 }
+
+.current{
+ 
+  background-color: #00AA88;
+  
+}
+
+.next {
+  background-color: #00AA88;
+ 
+}
+
+.past{
+  
+  background-color: #00AA88;
+ 
+ }

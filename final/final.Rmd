@@ -37,11 +37,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## ***Why***
-<div class="red3">**計價方式因不同因素而有差異**</div>
+<div class="white">**計價方式因不同因素而有差異**</div>
 <img src="mic.png" height="230" width="230">
 **KTV品牌**
 <img src="store.png" height="230" width="230">
-**分店**  
+**分店**
                                  
 <img src="time.png" height="230" width="230">
 **日期時段**
@@ -50,18 +50,20 @@ knitr::opts_chunk$set(echo = FALSE)
  
 
 ## ***How***  
-<div class="blue3">**提供節省時間又能快速選擇的整合網站**</div>
+<div class="white">**提供節省時間又能快速選擇的整合網站**</div>
 <img src="cover.png" height="480" width="750">
 <a href="http://ppt.cc/d1j7F" target="_self" title="連結替代文字">http://ppt.cc/d1j7F</a>
 
 
 ---
 
-<img src="list.png" height="600" width="900">
+<img src="list.png" height="600" width="1000">
 
 ##Our Members
 
-<img src="teammate.png" height="300" width="900">
+<div class="white">**由新聞媒體、商管、經濟的背景組成**</div>
+<div class="white">**我們是一群喜愛唱歌的人**</div>
+<img src="teammate.png" height="300" width="1000">
 
 ---
 
@@ -90,11 +92,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## ***Our Vision***
-1.評論功能
+<div class="white">1.評論功能</div>
 
 <img src="grade.jpg" height="150" width="300">
 
-2.擴展至其他娛樂活動
+<div class="white">2.擴展至其他娛樂活動</div>
 
 <img src="movie.png" height="150" width="150">
 <img src="wine.png" height="150" width="150">
