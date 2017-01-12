@@ -78,19 +78,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 <h2 style = "color:white">KTV計算機</h2>
-<div style="text-align: center"><img src="outlook.png" height="600" width="900"></div>
+<div style="text-align: center"><img src="outlook.png" height="530" width="900"></div>
 
 ##
 <h2 style = "color:white">依需求做選擇</h2>
-<div style="text-align: center"><img src="choose.png" height="600" width="900"></div>
+<div style="text-align: center"><img src="choose.png" height="530" width="900"></div>
 
 ##
 <h2 style = "color:white">包廂計價 v.s 人頭計價</h2>
-<div style="text-align: center"><img src="result.png" height="600" width="1000"></div>
+<div style="text-align: center"><img src="result.png" height="530" width="1000"></div>
 
 ##
 <h2 style = "color:white">馬上找店家</h2>
-<div style="text-align: center"><img src="storeweb.png" height="600" width="900"></div>
+<div style="text-align: center"><img src="storeweb.png" height="530" width="900"></div>
 
 
 
