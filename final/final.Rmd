@@ -1,5 +1,5 @@
 ---
-title: "我要當歌手" 
+title: 
 output: 
   ioslides_presentation:
     widescreen: true
@@ -65,28 +65,23 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="white">**我們是一群喜愛唱歌的人**</div>
 <img src="teammate.png" height="300" width="1000">
 
----
-
+##地圖搜尋
 <img src="map.png" height="500" width="900">
 
----
 
+##找店家
 <img src="review.png" height="500" width="900">
 
----
-
+##KTV計算機
 <img src="outlook.png" height="600" width="900">
 
----
-
+##依需求做選擇
 <img src="choose.png" height="600" width="900">
 
----
-
+##包廂計價 v.s 人頭計價
 <img src="result.png" height="600" width="1000">
 
----
-
+##馬上找店家
 <img src="storeweb.png" height="600" width="900">
 
 
