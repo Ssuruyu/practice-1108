@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<img src="02.jpg" height="600" width="900">
+<img src="02.png" height="600" width="900">
 
 ---
 
