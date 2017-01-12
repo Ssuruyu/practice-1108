@@ -14,10 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <img src="first.png" height="500" width="800">
 
-## ***你是不是曾經有過這樣的困擾...***
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz8o8Tx8vtg?autoplay=o" frameborder="0" allowfullscreen></iframe>
-
+<img src="01.jpg" height="500" width="800">
 
 ## ***Why***
 <div class="red3">**計價方式因不同因素而有差異**</div>
@@ -51,8 +50,3 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="wheel.svg" height="150" width="150">
 <img src="bowling.png" height="150" width="150">
 <img src="game.png" height="150" width="150">
-
-
- 
-
-
