@@ -1,12 +1,18 @@
 ---
 title: "Pecu Team 3" 
-output: ioslides_presentation
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: final.css
 ---
 
+   
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-#我要當歌手
+---
+
+<img src="first.png" height="500" width="800">
 
 ## ***你是不是曾經有過這樣的困擾...***
 
