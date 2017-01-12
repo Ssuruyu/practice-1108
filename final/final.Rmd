@@ -54,6 +54,51 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="cover.png" height="480" width="750">
 <a href="http://ppt.cc/d1j7F" target="_self" title="連結替代文字">http://ppt.cc/d1j7F</a>
 
+---
+
+<img src="cover.png" height="600" width="900">
+
+---
+
+<img src="list.png" height="600" width="900">
+
+---
+
+<img src="teammate.png" height="600" width="900">
+
+---
+
+<img src="map.png" height="600" width="900">
+
+---
+
+<img src="review.png" height="600" width="900">
+
+---
+
+<img src="outlook.png" height="600" width="900">
+
+---
+
+<img src="choose.png" height="600" width="900">
+
+---
+
+<img src="resultbox.png" height="600" width="900">
+
+---
+
+<img src="resulthead.png" height="600" width="900">
+
+---
+
+<img src="storeweb.png" height="600" width="900">
+
+
+
+
+
+
 
 ## ***Our Vision***
 1.評論功能
